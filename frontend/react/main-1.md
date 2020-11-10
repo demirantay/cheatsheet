@@ -6,6 +6,8 @@
 
 ### Getting Started
 
+- You can add React to an HTML page in one minute. You can then either gradually expand its presence, or keep it contained to a few dynamic widgets. When starting a React project, a simple HTML page with script tags might still be the best option. It only takes a minute to set up!
+
 <Br>
 
 ### Add a New React App
