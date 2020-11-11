@@ -42,6 +42,8 @@
     ```html
     <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
     ```
+    
+    (Adding JSX to a project doesn’t require complicated tools like a bundler or a development server. Essentially, adding JSX is a lot like adding a CSS preprocessor. The only requirement is to have Node.js installed on your computer.)
   
 - __`Note`__ -- Before deploying your website to production, be mindful that unminified JavaScript can significantly slow down the page for your users. Make sure HTML loads, be sure to have `production.min.js`
 
