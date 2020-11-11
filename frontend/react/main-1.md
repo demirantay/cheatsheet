@@ -146,6 +146,29 @@
 
 ## Rendering Elements 
 
+- Elements are the smallest building blocks of React apps. An element describes what you want to see on the screen:
+  ```js
+  const element = <h1>Hello, world</h1>;
+  ```
+  One might confuse elements with a more widely known concept of “components”. We will introduce components in the next section. Elements are what components are “made of”
+  
+- __`Rendering an Element into the DOM`__ -- Let’s say there is a <div> somewhere in your HTML file:
+  ```html
+  <div id="root"></div>
+  ```
+  We call this a “root” DOM node because everything inside it will be managed by React DOM. Applications built with just React usually have a single root DOM node. If you are integrating React into an existing app, you may have as many isolated root DOM nodes as you like.
+  
+  To render a React element into a root DOM node, pass both to ReactDOM.render():
+  ```js
+  const element = <h1>Hello, world</h1>;
+  ReactDOM.render(element, document.getElementById('root'));
+  ```
+  
+- __`Updating the Rendered Element`__ -- 
+  
+  
+  
+  
 <Br>
 
 ## Components and Props
