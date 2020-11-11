@@ -51,21 +51,27 @@
 
 ## Create a New React App
 
+- This page describes a few popular React toolchains which is used for scaling, debugging, optimizing .. etc. The toolchains recommended on this page don’t require configuration to get started. If you don’t experience the problems described above or don’t feel comfortable using JavaScript tools yet, consider adding React as a plain <script> tag on an HTML page, optionally with JSX.
+
+### Create React App
+
+- Create React App is a comfortable environment for learning React, and is the best way to start building a new single-page application in React. To create a project, run: 
+  ```
+  npx create-react-app my-app
+  cd my-app
+  npm start
+  ```
+  Create React App doesn’t handle backend logic or databases; it just creates a frontend build pipeline, so you can use it with any backend you want. Under the hood, it uses Babel and webpack, but you don’t need to know anything about them.
+
+### Your own Toolchain
+
+- If you prefer to set up your own JavaScript toolchain from scratch A JavaScript build toolchain typically consists of:
+  - A package manager, such as Yarn or npm (for installation)
+  - A bundler, such as webpack or Parcel. It lets you write modular code and bundle it together into small packages to optimize load time.
+  - A compiler such as Babel. It lets you write modern JavaScript code that still works in older browsers.
+  
 <br>
-
-## CDN Links
-
-<br>
-
-## Release Channels
-
-<Br>
-
 ---
-
-## Hello World
-
-<br>
 
 ## Introducing JSX
 
