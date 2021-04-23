@@ -23,8 +23,8 @@
 - [ ] Standarts & Best Practices
 - [ ] Backend Testing
 - [ ] Package Managaer
-- [ ] Relational Databases
 - [ ] ✨ Languages & Compilers
+- [ ] Relational Databases
 - [ ] NoSQL
 - [ ] Web Framework
 - [ ] Caching
