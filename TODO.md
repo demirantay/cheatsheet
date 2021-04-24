@@ -10,6 +10,8 @@
 - [ ] spotify clone
 - [ ] twitter clone
 - [ ] turn demirantay.com to freelance with customer panel
+- [ ] fully learn how nginx-django-gunicorn works
+- [ ] first 2 hours look for freelance work
 - [ ] instagram clone
 - [ ] youtube clone
 - [ ] whatsapp clone
