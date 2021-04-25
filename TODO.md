@@ -12,7 +12,7 @@ info:
 
 
 Road:
-- [ ] demirantay.com v1.0.0  (showcase - pretty)
+- [x] demirantay.com v1.0.0  (showcase - pretty)
 - [ ] spotify clone  (showcase - pretty)
 - [ ] twitter clone  (showcase - pretty)
 - [ ] getdemir.com freelance panel + info  (showcase - pretty- comprehension)
