@@ -6,18 +6,22 @@
 
 ### Freelance Roadmap
 
-- [ ] demirantay.com v1.0.0
-- [ ] spotify clone
-- [ ] twitter clone
-- [ ] turn demirantay.com to freelance with customer panel
-- [ ] fully learn how nginx-django-gunicorn works
+info:
+  - `pretty` -- for projects that must look good
+  - `comprehension` -- for projects that is about understanding the problem
+
+- [ ] demirantay.com v1.0.0  (showcase - pretty)
+- [ ] spotify clone  (showcase - pretty)
+- [ ] twitter clone  (showcase - pretty)
+- [ ] getdemir.com freelance panel + info  (showcase - pretty- comprehension)
+- [ ] fully learn how nginx-django-gunicorn-postgresql works
 - [ ] first 2 hours look for freelance work
-- [ ] instagram clone
-- [ ] youtube clone
-- [ ] whatsapp clone
-- [ ] amazon clone
-- [ ] pinterest clone
-- [ ] google clone
+- [ ] instagram clone (pretty + comprehension)
+- [ ] youtube clone  (pretty + comprehension) 
+- [ ] whatsapp clone  (pretty + comprehension)
+- [ ] amazon clone  (pretty + comprehension)
+- [ ] pinterest clone  (pretty + comprehension)
+- [ ] google clone  (pretty + comprehension)
 - [ ] full time freelance
 
 ### Main Roadmap
