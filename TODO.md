@@ -10,6 +10,8 @@ info:
   - `pretty` -- for projects that must look good
   - `comprehension` -- for projects that is about understanding the problem
 
+
+Road:
 - [ ] demirantay.com v1.0.0  (showcase - pretty)
 - [ ] spotify clone  (showcase - pretty)
 - [ ] twitter clone  (showcase - pretty)
