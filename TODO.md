@@ -13,11 +13,9 @@ info:
 
 Road:
 - [x] demirantay.com v1.0.0  (showcase - pretty)
-- [ ] spotify clone  (showcase - pretty)
 - [ ] twitter clone  (showcase - pretty)
-- [ ] getdemir.com freelance panel + info  (showcase - pretty- comprehension)
-- [ ] fully learn how nginx-django-gunicorn-postgresql works
-- [ ] first 2 hours look for freelance work
+- [ ] fix getdemir.com
+- [ ] find remote work
 - [ ] instagram clone (pretty + comprehension)
 - [ ] youtube clone  (pretty + comprehension) 
 - [ ] whatsapp clone  (pretty + comprehension)
