@@ -6,11 +6,6 @@
 
 ### Freelance Roadmap
 
-info:
-  - `pretty` -- for projects that must look good
-  - `comprehension` -- for projects that is about understanding the problem
-
-
 Road:
 - [x] demirantay.com v1.0.0  (showcase - pretty)
 - [x] twitter clone  (showcase - pretty)
