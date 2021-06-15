@@ -13,8 +13,8 @@ info:
 
 Road:
 - [x] demirantay.com v1.0.0  (showcase - pretty)
-- [ ] twitter clone  (showcase - pretty)
-- [ ] fix getdemir.com
+- [x] twitter clone  (showcase - pretty)
+- [x] fix getdemir.com
 - [ ] find remote work
 - [ ] instagram clone (pretty + comprehension)
 - [ ] youtube clone  (pretty + comprehension) 
@@ -22,7 +22,7 @@ Road:
 - [ ] amazon clone  (pretty + comprehension)
 - [ ] pinterest clone  (pretty + comprehension)
 - [ ] google clone  (pretty + comprehension)
-- [ ] full time freelance
+- [ ] your own company
 
 ### Main Roadmap
 
