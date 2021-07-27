@@ -4,8 +4,6 @@
 - 2 - Project
 - 3 - Tez
 
-### Freelance Roadmap
-
 ### Main Roadmap
 
 - [ ] Standarts & Best Practices
