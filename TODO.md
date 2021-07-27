@@ -6,11 +6,6 @@
 
 ### Freelance Roadmap
 
-Road:
-- [x] demirantay.com v1.0.0  (showcase - pretty)
-- [x] twitter clone  (showcase - pretty)
-- [x] fix getdemir.com
-
 ### Main Roadmap
 
 - [ ] Standarts & Best Practices
