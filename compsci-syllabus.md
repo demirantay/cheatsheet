@@ -141,6 +141,14 @@
 <br>
 <br>
 
+## Frontend
+
+- [ ] Feynman: HTML
+- [ ] Feynman: CSS
+- [ ] Feynman: JavaScript
+- [ ] Feynman: Package Managers
+- [ ] ...
+
 ## Backend
 
 - [x] Feynman: Specific Programming Language (e.g. Python)
