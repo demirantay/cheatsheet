@@ -50,3 +50,11 @@
 - [ ] Cloud Providers -- AWS
 - [ ] ✨ Cyber Security
 
+### Fast CRUD apps for language learning
+
+- [ ] Twitter clone
+- [ ] Youtube clone
+- [ ] instagram clone
+- [ ] medium clone
+- [ ] discord
+- [ ] pinterest
