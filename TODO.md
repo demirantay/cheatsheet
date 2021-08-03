@@ -3,6 +3,8 @@
 - 1 - Feynman
 - 2 - Project
 - 3 - Tez
+- 4 - Reddit post about all of this
+- 5 - Twitter post about all of tihs
 
 ### Main Roadmap
 
