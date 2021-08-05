@@ -6,6 +6,9 @@
 - 4 - Reddit post about all of this
 - 5 - Twitter post about all of tihs
 
+
+IMPORTANT CREATE A IMMIGRATION SCARCE TECH LEARNINGS (such as GO is extremly in demand,makes it easy to immigrate)
+
 ### Main Roadmap
 
 - [ ] Standarts & Best Practices
