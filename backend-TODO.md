@@ -42,3 +42,10 @@
 - [ ] Devops + More in depth knowledge on a single theory
 
 ### Fast CRUD apps for language learning
+
+- [ ]  Twitter clone
+- [ ] Youtube clone
+- [ ] instagram clone
+- [ ] medium clone
+- [ ] discord
+- [ ] pinterest
