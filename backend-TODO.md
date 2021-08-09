@@ -16,6 +16,7 @@
 - [ ] Relational Databases
 - [ ] NoSQL databases
 - [ ] API's
+- [ ]  ✨ Algorithms & Data Structures
 - [ ] Caching
 - [ ] CI/CD
 - [ ] Design/Development Patterns
