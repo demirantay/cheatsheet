@@ -8,7 +8,7 @@
 
 ### Main Roadmap
 
-- [ ] Language (python, go)
+- [ ] Language (python & go)
 - [ ] Testing
 - [ ] Frameworks
 - [ ] ✨ Databases
