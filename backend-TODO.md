@@ -2,11 +2,11 @@
 
 1 - Feynman
 2 - Project
-3 - Tez
+3 - TEZ (Whole backend not just each box)
 
 ### Main Roadmap
 
-- [ ] Language (python & go)
+- [x] Language (python & go)
 - [ ] Testing
 - [ ] Frameworks
 - [ ] ✨ Databases
