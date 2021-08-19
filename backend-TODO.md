@@ -2,7 +2,10 @@
 
 1 - Feynman
 2 - Project
-3 - TEZ (Whole backend not just each box)
+3 - Tez
+  - whole sucjects (backend, frontend .etc)
+  - theory single subjects 
+  
 
 ### Main Roadmap
 
