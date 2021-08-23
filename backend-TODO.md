@@ -6,6 +6,12 @@
   - whole sucjects (backend, frontend .etc)
   - theory single subjects 
   
+### Work Roadmap
+
+- [ ] Relational Databases
+- [ ] API's
+- [ ] Frameworks
+- [ ] React
 
 ### Main Roadmap
 
@@ -13,7 +19,6 @@
 - [ ] Testing
 - [ ] Frameworks
 - [ ] ✨ Databases
-- [ ] Relational Databases
 - [ ] Relational Databases
 - [ ] NoSQL databases
 - [ ] API's
