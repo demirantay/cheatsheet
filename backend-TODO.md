@@ -8,6 +8,7 @@
   
 ### Work Roadmap
 
+(Just cheatsheet no feynman)
 - [ ] SQL
 - [ ] Relational Databases
 - [ ] API's (AJAX)
