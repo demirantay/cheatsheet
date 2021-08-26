@@ -8,10 +8,10 @@
   
 ### Work Roadmap
 
-- [ ] Relational Databases (SQL)
+- [ ] SQL
+- [ ] Relational Databases
 - [ ] API's (AJAX)
 - [ ] Frameworks
-- [ ] React
 
 ### Main Roadmap
 
