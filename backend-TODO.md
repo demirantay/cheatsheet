@@ -9,9 +9,9 @@
 ### Work Roadmap
 
 (Just cheatsheet no feynman)
+- [ ] API's (AJAX)
 - [ ] SQL
 - [ ] Relational Databases
-- [ ] API's (AJAX)
 - [ ] Frameworks
 
 ### Main Roadmap
