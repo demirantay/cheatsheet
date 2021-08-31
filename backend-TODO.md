@@ -11,8 +11,6 @@
 (Just cheatsheet no feynman)
 - [ ] API's (AJAX)
 - [ ] SQL
-- [ ] Relational Databases
-- [ ] Frameworks
 
 ### Main Roadmap
 
