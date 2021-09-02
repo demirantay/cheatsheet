@@ -9,6 +9,7 @@
 ## Work Roadmap
 
 Daily:
+> Keep the codes written in study in company repos, not your own github
 - 08am - 12pm - Study
 - 12pm - 01pm - Lunch
 - 01pm - 06pm - Work
