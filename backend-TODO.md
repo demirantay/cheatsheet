@@ -6,21 +6,22 @@
   - whole sucjects (backend, frontend .etc)
   - theory single subjects 
   
-### Work Roadmap
+## Work Roadmap
 
-(Just cheatsheet no feynman)
-- [ ] API's (AJAX)
-- [ ] SQL
+Daily:
+- 08am - 12pm - Study
+- 12pm - 01pm - Lunch
+- 01pm - 06pm - Work
 
-### Main Roadmap
+## Main Roadmap
 
 - [x] Language (python & go)
+- [ ] API's
 - [ ] Testing
 - [ ] Frameworks
 - [ ] ✨ Databases
 - [ ] Relational Databases
 - [ ] NoSQL databases
-- [ ] API's
 - [ ]  ✨ Algorithms & Data Structures
 - [ ] Caching
 - [ ] CI/CD
