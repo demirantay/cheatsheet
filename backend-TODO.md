@@ -1,8 +1,8 @@
 ### Backend TODO
 
-1 - Feynman
-2 - Project
-3 - Tez
+- Feynman
+- Project
+- Tez 
   - whole sucjects (backend, frontend .etc)
   - theory single subjects 
   
