@@ -1,7 +1,7 @@
 ### Backend TODO
 
 - Feynman
-- Project
+- Project (python -> go -> java)
 - Tez 
   - whole sucjects (backend, frontend .etc)
   - theory single subjects 
