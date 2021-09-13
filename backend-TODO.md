@@ -16,7 +16,7 @@ Daily:
 
 ## Main Roadmap
 
-- [x] Language (python & go)
+- [x] Language (python & go & java)
 - [ ] API's
 - [ ] Testing
 - [ ] Frameworks
