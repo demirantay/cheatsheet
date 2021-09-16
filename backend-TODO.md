@@ -45,6 +45,10 @@ Daily:
 - [ ] ✨ Artifical Intelligence
 - [ ] ✨ Graphics
 
+### Devops
+
+- [ ] ...
+
 ### Carrer Step
 
 - [ ] Devops + More in depth knowledge on a single theory
