@@ -1,7 +1,9 @@
+> Re-write this better from here with all sub boxes: 
+
 ### Backend TODO
 
 - Feynman
-- Project (python -> go -> java)
+- Project (python -> go)
 - Tez 
   - whole sucjects (backend, frontend .etc)
   - theory single subjects 
