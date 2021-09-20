@@ -110,29 +110,29 @@ Carrer Direction
   - [ ] SSH
   - [ ] Port Forwarding
 - [ ] What is and how to set up:
-  - [ ] Reverse Proxy
-  - [ ] Forward Proxy
-  - [ ] Caching Server
-  - [ ] Load Balancer
-  - [ ] Firewall
+    - [ ] Reverse Proxy
+    - [ ] Forward Proxy
+    - [ ] Caching Server
+    - [ ] Load Balancer
+    - [ ] Firewall
  - [ ] Web Server
  - [ ] Infustructure as a Code
-  - [ ] Containers
-  - [ ] Configuration Management
-  - [ ] Container Orchestiration
-  - [ ] Infustructure Provisioning
-  - [ ] Service Mesh
+    - [ ] Containers
+    - [ ] Configuration Management
+    - [ ] Container Orchestiration
+    - [ ] Infustructure Provisioning
+    - [ ] Service Mesh
  - [ ] CI/CD Tool
  - [ ] Monitoring software and infustructure
-  - [ ] Infrastructure Monitoring
-  - [ ] Application Monitoring
-  - [ ] Logs Management 
+    - [ ] Infrastructure Monitoring
+    - [ ] Application Monitoring
+    - [ ] Logs Management 
  - [ ] Cloud Providers
  - [ ] Cloud Design Patterns
-  - [ ] Availability
-  - [ ] Data Management
-  - [ ] Design and Implementation
-  - [ ] Management and Monitoring
+    - [ ] Availability
+    - [ ] Data Management
+    - [ ] Design and Implementation
+    - [ ] Management and Monitoring
 
 
 ## Fast CRUD apps for skill showcasing
