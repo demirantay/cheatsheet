@@ -29,7 +29,6 @@ Carrer Direction
 ## Main Roadmap
 
 - [ ] Testing
-- [ ] CI/CD
 - [ ] Backend Frameworks
 - [ ] Relational Databases
 - [ ] NoSQL Databases
@@ -48,6 +47,7 @@ Carrer Direction
   - [ ] CDN
   - [ ] Server Side
   - [ ] Client Side
+- [ ] CI/CD
 - [ ] Design/Development Patterns
   - [ ] SOLID
   - [ ] KISS
