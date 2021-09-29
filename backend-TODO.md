@@ -4,7 +4,7 @@ Reference: https://roadmap.sh/backend
 
 - Practical Cheatcodes
 - Feynman
-- Project (python, go)
+- Project (small) (python, go)
 - Tez 
   - whole sucjects (backend, frontend .etc)
   - theory single subjects 
