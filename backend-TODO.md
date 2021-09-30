@@ -28,7 +28,7 @@ Carrer Direction
 
 ## Main Roadmap
 
-- [ ] Testing
+- [x] Testing
 - [ ] Backend Frameworks
 - [ ] Relational Databases
 - [ ] NoSQL Databases
