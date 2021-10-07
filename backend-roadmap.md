@@ -2,31 +2,17 @@
 
 Reference: https://roadmap.sh/backend
 
+Learning:
 - Practical Cheatcodes
 - Feynman
-- Project (small) (python, go)
-- Tez 
+- - Tez 
   - whole sucjects (backend, frontend .etc)
   - theory single subjects 
 
-Carrer Direction
-- [ ] Backend
-- [ ] Backend Tez
-- [ ] Compsic Theory
-- [ ] Theory Tez
-- [ ] Devops
-- [ ] Devops Tez
-- [ ] Startup
+Practical:
+- Project (small) (python, go)
 
-## Tool Set
-
-- [ ] System: Golang, C
-- [ ] OOP: Python
-- [ ] Functional: Scala
-- [ ] Scripting: Javascript
-
-
-## Main Roadmap
+## Learning
 
 - [x] Testing
 - [ ] Backend Frameworks
@@ -71,6 +57,19 @@ Carrer Direction
   - [ ] Horizontal vs Vertical Scaling
   - [ ] Building with Observality
 - [ ] Web Security
+
+# Practice
+
+- [x] Test Framework
+- [ ] Object Relational Mapper
+- [ ] Template Engine
+- [ ] URL mapper
+- [ ] Web framework
+- [ ] DBMS sys with SQL
+- [ ] DBMS sys with noSQL
+
+> Fill it more once you have more knowledge
+
 
 ## Theory
 
@@ -134,13 +133,3 @@ Carrer Direction
     - [ ] Data Management
     - [ ] Design and Implementation
     - [ ] Management and Monitoring
-
-
-## Fast CRUD apps for skill showcasing
-
-- [ ] Twitter clone
-- [ ] Youtube clone
-- [ ] instagram clone
-- [ ] medium clone
-- [ ] discord
-- [ ] pinterest
