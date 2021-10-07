@@ -70,19 +70,6 @@ Practical:
 
 > Fill it more once you have more knowledge
 
-
-## Theory
-
-- [ ] ✨ Algorithms & Data Structures
-- [ ] ✨ Databases
-- [ ] ✨ Languages & Compilers
-- [ ] ✨ Operating Systems
-- [ ] ✨ Computer Networking
-- [ ] ✨ Cyber Security
-- [ ] ✨ Computer Architecture 
-- [ ] ✨ Artifical Intelligence
-- [ ] ✨ Graphics
-
 ## Devops
 
 - [ ] OS concepts
