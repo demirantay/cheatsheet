@@ -141,59 +141,26 @@
 <br>
 <br>
 
-## Frontend
+## Theory List
 
-- [ ] Feynman: HTML
-- [ ] Feynman: CSS
-- [ ] Feynman: JavaScript
-- [ ] Feynman: Package Managers
-- [ ] ...
+- [ ] ✨ Algorithms & Data Structures
+- [ ] ✨ Databases
+- [ ] ✨ Languages & Compilers
+- [ ] ✨ Operating Systems
+- [ ] ✨ Computer Networking
+- [ ] ✨ Cyber Security
+- [ ] ✨ Computer Architecture 
+- [ ] ✨ Artifical Intelligence
+- [ ] ✨ Graphics
 
-## Backend
+## Practical
 
-- [x] Feynman: Specific Programming Language (e.g. Python)
-- [ ] Feynman: Standarts & Best Practices
-- [ ] Feynman: Backend Testing
-- [ ] Feynman: Package Managaer
-- [ ] Project: Finish Database Theory above
-- [ ] Feynman: Relational Databases
-- [ ] Feynman: NoSQL
-- [ ] Project: Finish Networking at the top.
-- [ ] Feynman: Web Framework
-- [ ] Feynman: Caching
-- [ ] Feynman: API's
-- [ ] Feynman: Web Security
-- [ ] Feynman: Message Brokers
-- [ ] Feynman: Search Engines
-- [ ] Feynman: GraphQL
-- [ ] Feynman: Graph Databases
-- [ ] Feynman: Scalability
-- [ ] After even finising feynman start focusing on business and developing your own application.
-
-## Devops
-
-- [ ] Feynman: System Progrmaming Languages (python, c/c++, go)
-- [ ] Project: Finish Operating Systems above
-- [ ] Feynman: Unix/Linux Envioronment
-- [ ] Feynman: Terminal Shell
-- [ ] Feynman: Bash Scripting
-- [ ] Feynman: CLI Tools - (text maniupation, process mointoring, network, sys performance)
-- [ ] Project: Finish Networking theory above
-- [ ] Feynman: Web Servers
-- [ ] Feynman: CGIs
-- [ ] Feynman: Caching Servers
-- [ ] Feynman: Load Balancer
-- [ ] Feynman: Reverse Proxy
-- [ ] Feynman: Forward Proxy
-- [ ] Feynman: Firewall
-- [ ] Feynman: Containers -- (Docker ...etc)
-- [ ] Feynman: Configuration Management -- (Ansible)
-- [ ] Feynman: Container Orchestration -- (Kubernetees)
-- [ ] Feynman: Infustructure Provisioning -- (Terraform)
-- [ ] Feynman: CI/CD -- (Jenkins, Circle CI ...etc)
-- [ ] Feynman: Infustructure Monitoring -- (Nagios, Icinga, Datadog ... etc)
-- [ ] Feynman: Application Monitoring -- (New Relic, AppDynamics .. etc)
-- [ ] Feynman: Logs Management -- (ELK Stack, Graylog, Splunk .. etc)
-- [ ] Feynman: Cloud Providers -- AWS
-- [ ] Feynman: Cyber Security
-- [ ] Re-iterate through feynman boxes above
+- [ ] Develop something with Algoritmhs
+- [ ] Develop your own Database
+- [ ] Develop your own compiler and interpreter
+- [ ] Develop your own OS
+- [ ] Develop your own server
+- [ ] Attack and Defend your server
+- [ ] Develop a computer from scratch
+- [ ] Develop a small AI
+- [ ] Develop a small Graphics engine
