@@ -36,11 +36,11 @@
 - [ ] Tic Tac Toe Game with JS
 - [ ] Weather Appplication with an API
 - [ ] Auto correcter for texting
+- [ ] Youtube frontend clone with React
 - [ ] Chess Game with Javascript
 - [ ] Algorithm Visualizations
 - [ ] Visualized Traveling Sales Problem
 - [ ] Instagram frontend clone with React
-- [ ] Youtube frontend clone with React
 - [ ] Trello frontend clone with React
 - [ ] Small web browser
 - [ ] Small scripting language on that web browser based on javascript
