@@ -32,6 +32,7 @@
 
 ### Frontend Projects
 
+- [ ] Template 1,2
 - [ ] Calculator with JS
 - [ ] Tic Tac Toe Game with JS
 - [ ] Weather Appplication with an API
