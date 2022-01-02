@@ -1,9 +1,5 @@
 # Road Map
 
-### Main Learnings
-- [ ] Javascript
-- [ ] Web Browser
-
 ### Frontend Learnings
 
 - [X] HTML
