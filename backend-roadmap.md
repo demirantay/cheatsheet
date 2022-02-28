@@ -60,10 +60,17 @@ Practical:
 
 # Practice
 
+### Algorithmic Clones
+
+- [ ] Social Media (Instagram)
+- [ ] Retail (Etsy)
+- [ ] Video Processing (Youtube)
+- [ ] Search Engine (google)
+
+
+### Technological 
+
 - [x] Test Framework
-- [ ] Object Relational Mapper
-- [ ] Template Engine
-- [ ] URL mapper
 - [ ] Web framework
 - [ ] DBMS sys with SQL
 - [ ] DBMS sys with noSQL
