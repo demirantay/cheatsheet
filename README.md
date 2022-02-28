@@ -2,4 +2,7 @@
 shortcut notes from my main digital notebook
 
 
-2022 -- Backend
+Learning Process:
+- 1 month: algorithmic projects
+- 1 month: cheatsheet/feynman notes
+- 1 month: technological projects
