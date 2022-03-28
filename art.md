@@ -11,6 +11,7 @@
 
 - [ ] Drawing for the absolute and utter beginner
 - [ ] Drawing for the absolute beginner
+- [ ] The fundementals of drawing - barrington barber
 
 #### Anatomy
 
