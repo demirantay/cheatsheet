@@ -1,28 +1,51 @@
 ## Art Roadmap
 
-### Stage: 1
+> Ways to learn art
+> 1 - Books
+> 2 - Practice
+> 3 - Feynman Notes
 
-- [ ] Cizim sanati: portre
-- [ ] Cizim sanati: el ve ayak cizimleri
-- [ ] Cizim sanati: giysili figur cizimi
-- [ ] Cizim sanati: Nu cizim
-- [ ] Cizim sanati: Isik ve golgenin cizimi
-- [ ] Cizim sanati: Insan Anatomisi
-- [ ] Cizim sanati: Insanlarin cizimi
-- [ ] Cizim sanati: perspektifi anlamak
-- [ ] Cizim sanati: evcil hayvanlarin cizimi
-- [ ] Cizim sanati: cicekler, meyveler ve sebzeler
+## Fundementals
 
-### Stage: 2
+#### Basics
 
-- [ ] Color/Light : 2 books
-- [ ] Form : 2 books
-- [ ] Values : 2 books
-- [ ] Perspective: 2 books
-- [ ] Composition: 2 books
-- [ ] Anatomy: 2 books
+- [ ] Drawing for the absolute and utter beginner
+- [ ] Drawing for the absolute beginner
 
-### Stage: 3
+#### Anatomy
+
+- [ ] Figure drawing for all it's worth by Andrew Loomis;
+- [ ] Drawing the head & hands by Andrew Loomis;
+- [ ] Constructive Anatomy by George Bridgman;
+- [ ] Force: Dynamic life drawing for animators by Michael Mattesi;
+- [ ] Figure Drawign: Design and Invention by Michael Hampton;
+- [ ]  The art of animal drawing by Ken Hultgren;
+- [ ] Animal Anatomy for artists: The elements of Form by Eliot Goldfinger
+
+#### Color
+
+- [ ] Color and Light: A guide for the realist painter by James Gurney; 
+- [ ] Creative Illustration by Andrew Loomis; 
+
+#### Composition
+
+- [ ] Imaginative Realism: How to paint what doesn't exist by James Gurney;
+- [ ] Creative Illustration by Andrew Loomis; 
+
+#### Perspective
+
+- [ ]  How to draw: Drawing and sketching objects and environments from your
+imagination by Scott Robertson;
+
+#### Values
+
+- [ ] Color and Light: A guide for the realist painter by James Gurney;
+
+#### Misc
+
+- [ ] ...
+
+## Feynman
 
 > Make all of the below into matbaa tez style book
 
