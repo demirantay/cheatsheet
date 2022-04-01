@@ -10,7 +10,6 @@
 #### Basics
 
 - [ ] Drawing for the absolute beginner
-- [ ] The fundementals of drawing - barrington barber
 
 #### Anatomy
 
