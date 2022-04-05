@@ -1,32 +1,34 @@
 # Road Map
 
-### Frontend Learnings
+> 1 month - LEARNING / 1 month - PRACTICE
 
-- [X] HTML
-- [X] CSS
-- [X] Javascript
-- [X] Version Control System, Repos
-- [X] Terminal usage
-- [ ] Package Managers
-- [ ] CSS Architecture
-- [ ] CSS Preprocessors
-- [ ] Task Runners
-- [ ] Module Bunlers
-- [ ] Framework (react, vue .etc)
-- [ ] Modern CSS
-- [ ] Web Components
-- [ ] CSS Frameworks
-- [ ] Testing your Apps
-- [ ] Type Checker
-- [ ] Progressive Web Apps
-- [ ] Server Side Rendering (SSR)
-- [ ] GraphQL
-- [ ] Static Site Generator
-- [ ] Mobile Applications (React native)
-- [ ] Desktop applications
-- [ ] Web Assembly
+### Learning
 
-### Frontend Projects
+| Topic | Practical Nots | Logic Project | Feynman Notes |
+| ----| ----| ----| ---- |
+|HTML| | | | 
+|CSS | | | | 
+|Javascript| | | |
+|Package Managers | | | |
+|CSS Architecture| | | | 
+|CSS Preprocessors| | | | 
+|Task Runners| | | |
+|Module Bundlers| | | |
+|Frameworks (react, vue, ... etc)| | | |
+|Modern CSS| | | |
+|Web Components| | | | 
+|CSS Frameworks| | | |
+|Testing your Apps| | | |
+|Type Checker| | | |
+|Progressive Web Apps| | | | 
+|Server Side Rendering (SSR)| | | | 
+|GraphQL| | | |
+|Static Site Generator| | | |
+|Mobile Applications (React Native)| | | |
+|Desktop Applications| | | |
+|Web Assembly| | | |
+
+### Projects
 
 - [ ] Template 1,2
 - [ ] Calculator with JS
