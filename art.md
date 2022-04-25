@@ -7,10 +7,6 @@
 
 ## Fundementals
 
-#### Basics
-
-- [ ] Drawing for the absolute beginner
-
 #### Anatomy
 
 - [ ] Figure drawing for all it's worth by Andrew Loomis;
@@ -26,11 +22,6 @@
 - [ ] Color and Light: A guide for the realist painter by James Gurney; 
 - [ ] Creative Illustration by Andrew Loomis; 
 
-#### Composition
-
-- [ ] Imaginative Realism: How to paint what doesn't exist by James Gurney;
-- [ ] Creative Illustration by Andrew Loomis; 
-
 #### Perspective
 
 - [ ]  How to draw: Drawing and sketching objects and environments from your
@@ -38,20 +29,25 @@ imagination by Scott Robertson;
 
 #### Values
 
-- [ ] Color and Light: A guide for the realist painter by James Gurney;
+- [ ] ...
 
-#### Misc
+#### Texture
 
 - [ ] ...
+
+#### Composition
+
+- [ ] Imaginative Realism: How to paint what doesn't exist by James Gurney;
+- [ ] Creative Illustration by Andrew Loomis; 
 
 ## Feynman
 
 > Make all of the below into matbaa tez style book
 
-- [ ] Feynman: Color/Light
 - [ ] Feynman: Form
-- [ ] Feynman: Values
+- [ ] Feynman: Color/Light
 - [ ] Feynman: Perspective
+- [ ] Feynman: Values
 - [ ] Feynman: Composition
 - [ ] Feynman: Anatmoy
-
+- [ ] Feynman: Texture
