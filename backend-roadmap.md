@@ -43,7 +43,7 @@ Practical:
 
 ### Algorithmic Clones
 
-- [ ] Social Media (Instagram)
+- [ ] Social Media (Twitter)
 - [ ] Retail (Etsy)
 - [ ] Video Processing (Youtube)
 - [ ] Search Engine (google)
