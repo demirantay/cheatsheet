@@ -1,22 +1,12 @@
 ### Backend TODO
 
-> 1 month - PRACTICE / 1 - month - LEARNING
+> Reference: https://roadmap.sh/backend
 
-Reference: https://roadmap.sh/backend
-
-Learning:
-- Practical Cheatcodes
-- Feynman
-- - Tez 
-  - whole sucjects (backend, frontend .etc)
-  - theory single subjects 
-
-Practical:
-- Project (small) (python, go)
+Method: `1-month` (practice-feynman notes) | `1-month` (logic projects | `1-month` (big project)
 
 ## Learning
 
-| Topic | Practical Notes | Logic Project | Feynman Notes |
+| Topic | Practical Notes | Feynman Notes | Logic Project |
 |--|--|--|--|
 |Testing | X | X |  |
 |Backend Framework | | | |
