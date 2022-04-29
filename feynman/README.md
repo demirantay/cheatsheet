@@ -1,3 +1,25 @@
+#### Frontend:
+  - ...
+  
+#### Backend
+  - [Standarts and Best Practices](backend/standarts-best-practices.md)
+  - [Testing](backend/testing.md)
+  - [API](backend/api.md)
+  - [REST api](backend/rest-api.md)
+  - [Web Frameworks](backend/web-framework.md)
+  - [no-sql](backend/no-sql.md)
+
+#### DevOps:
+  - ...
+ 
+#### Algorithms:
+  - ...
+
+#### Operating Systems:
+  - ...
+
+
+
 > Feynman Technique:
 > - Choose a concept you want to learn about.
 > - Pretend you are teaching it to a student in grade 6.
@@ -13,21 +35,3 @@
 > - When
 > - Who
 > - How
-
-#### Frontend:
-  - ...
-  
-#### Backend
-  - Standarts and Best Practices
-  - Testing
-  - API
-  - Web Frameworks
-
-#### DevOps:
-  - ...
- 
-#### Algorithms:
-  - ...
-
-#### Operating Systems:
-  - ...
