@@ -11,7 +11,7 @@ Method: `1-month` (practice-feynman notes) | `1-month` (logic projects | `1-mont
 |Testing | X | X | x | |
 |Backend Framework | | | | |
 |Relational Databases | | | | |
-|NoSQL Databases | | | | |
+|NoSQL Databases | |x| | |
 |Databases++ (ORM, ACID, Transactions, N+1, Normalization, Indexes | | | | |
 |API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | |  |
 |Caching (CDN, Client side, Server side) | | | | |
