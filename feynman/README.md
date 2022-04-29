@@ -7,7 +7,7 @@
   - [API](backend/api.md)
   - [REST api](backend/rest-api.md)
   - [Web Frameworks](backend/web-framework.md)
-  - [no-sql](backend/no-sql.md)
+  - [NoSQL](backend/no-sql.md)
 
 #### DevOps:
   - ...
