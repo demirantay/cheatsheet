@@ -8,7 +8,7 @@ Method: `1-month` (practice-feynman notes) | `1-month` (logic projects | `1-mont
 
 | Topic | Practical Notes | Feynman Notes | Study S project | Study B project |
 |--|--|--|--|--|
-|Testing | X | X |  | |
+|Testing | X | X | x | |
 |Backend Framework | | | | |
 |Relational Databases | | | | |
 |NoSQL Databases | | | | |
