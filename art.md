@@ -1,9 +1,8 @@
 ## Art Roadmap
 
-> Ways to learn art
-> 1 - Books
-> 2 - Practice
-> 3 - Feynman Notes
+- Learning TODO:
+  - 1 - Read a book (2 hour), practice (2 hour)
+  - 2 - Once finished improve feynman notes
 
 ## Fundementals
 
