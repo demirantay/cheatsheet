@@ -2,7 +2,7 @@
 
 > Reference: https://roadmap.sh/backend
 
-Method: `1-month` (practice-feynman notes) | `1-month` (logic projects | `1-month` (big project)
+Method: `1-month` Learning | `1-month` Project
 
 ## Learning
 
