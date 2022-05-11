@@ -13,7 +13,6 @@ PART 1
 |Testing | X | X | x | |
 |Backend Framework | | | | |
 |Relational Databases | | | | |
-|Databases++ (ORM, ACID, Transactions, N+1, Normalization, Indexes | | | | |
 |NoSQL Databases | |x| | |
 |API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | |  |
 |Caching (CDN, Client side, Server side) | | | | |
