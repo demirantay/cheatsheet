@@ -16,8 +16,6 @@ Method: `1-month` Learning | `1-month` Project
 |API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | |  |
 |Caching (CDN, Client side, Server side) | | | | |
 |CI/CD | | | | |
-|Design Patterns (SOLID, KISS, YAGNI, DRY) | | | | |
-|Architectual Patterns (Monolithic, Microservices, SOA, CQRS and Event Sourcing, Serverless | | | | |
 |Web Sockets| | | | |
 |Web Servers| | | | |
 |Search Engine| | | | |
