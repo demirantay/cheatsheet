@@ -6,6 +6,8 @@ Method: `1-month` Learning | `1-month` Project
 
 ## Learning
 
+PART 1
+
 | Topic | Practical Notes | Feynman Notes | Study S project | Study B project |
 |--|--|--|--|--|
 |Testing | X | X | x | |
@@ -23,9 +25,15 @@ Method: `1-month` Learning | `1-month` Project
 |Containers and Virtualization | | | | |
 |GraphQL| | | | |
 |Graph Databases| | | | |
+
+PART 2
+| Topic | Practical Notes | Feynman Notes | Study S project | Study B project |
+|--|--|--|--|--|
+| Software Development Principles (SOLID, KISS, YAGNI)| | | | |
+| Software Design Patterns (Factory, Strategy Observer, Singleton) | | | | |
+| Architectual Patterns (Microservices, Monolithic, Serverless) | | | | | 
 |Scalability (Migration strategies, Horizontal and Vertical scaling, Building with Observibilty | | | | |
 |Web Security| | | | |
-
 
 # Practice
 
@@ -38,5 +46,8 @@ Method: `1-month` Learning | `1-month` Project
   - [ ] Write your own basic webserver, hook it up to the internet, and host a basic website from it.
   - [ ] Create a basic database (something similar to sqlite)
   - [ ] Write your own operating system (or make a heavily customized one based on Linux or something)
+
+- `Backend Projects`:
+  - [ ] ...
   
 
