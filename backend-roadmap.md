@@ -47,6 +47,10 @@ PART 2
   - [ ] Write your own operating system (or make a heavily customized one based on Linux or something)
 
 - `Backend Projects`:
-  - [ ] ...
+  - [ ] Project using: Web framework, RDBMS, testing
+  - [ ] Project using: Web framework, RDBMS, testing, API
+  - [ ] Project using: Web framework, NoSQL, testing, API 
+  - [ ] Project using: Web framework, RDBMS, testing, API, Caching
+  - [ ] Project using: ...
   
 
