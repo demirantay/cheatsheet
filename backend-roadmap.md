@@ -1,8 +1,6 @@
 ### Backend TODO
 
-> Reference: https://roadmap.sh/backend
-
-Method: `1-month` Learning | `1-month` Project
+Method: `1-month` Learning | `1-month` Project | `1-month` Devops
 
 ## Learning
 
@@ -63,5 +61,7 @@ PART 2
   - [ ] Project using: Web framework, RDBMS, testing, API, Caching
   - [ ] Blog and Socials post for above
   - [ ] Project using: ...
+
+
   
 
