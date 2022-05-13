@@ -23,7 +23,6 @@ PART 1
 |Message Brokers| | | | | |
 |Containers and Virtualization | | | | | |
 |GraphQL| | | | | |
-|Graph Databases| | | | | |
 
 PART 2
 | Topic | Practical Notes | Feynman Notes | Study S project | Study B project | Twitter, Linkedin |
