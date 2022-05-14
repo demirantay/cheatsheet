@@ -20,6 +20,31 @@
   - [ ] Maps
   - [ ] make()
   - [ ] Structs
+- [ ] Going Deeper:
+   - [ ] Go modules
+   - [ ] Types, Type assertions, Switches
+   - [ ] Interfaces
+   - [ ] Context
+   - [ ] Go routines
+   - [ ] Channels
+   - [ ] Buffer
+   - [ ] Select
+   - [ ] Mutex
+   - [ ] Marshalling & Unmarshalling JSON
+- [ ] Building CLIs (Cobra)
+- [ ] ORMs (GORM)
+- [ ] Web Frameworks (Buffalo, Gorilla, Gin .etc.)
+- [ ] Logging (Logrus, Zap)
+- [ ] Real-time Comminucation (Melody, Centrifugo)
+- [ ] API clients
+  - [ ] REST (Heimdall, GRequests)
+  - [ ] GraphQL (graphql-go, gqlgen)
+- [ ] Testing your apps
+- [ ] Tools for Microservices
+  - [ ] Watermill
+  - [ ] rpcx, go-kit, micro, go-zero
+  - [ ] protocol buffers, gRPC-Go, gRPC-gateway, twirp
+- [ ] Project: CLI CRUD app for testing the above
 
 ## Python
 
