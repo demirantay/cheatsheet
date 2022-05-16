@@ -44,7 +44,6 @@
   - [ ] Watermill
   - [ ] rpcx, go-kit, micro, go-zero
   - [ ] protocol buffers, gRPC-Go, gRPC-gateway, twirp
-- [ ] Project: CLI CRUD app for testing the above
 
 ## Python
 
@@ -76,7 +75,6 @@
   - [ ] Sync (django, flask)
   - [ ] Async (aiohttp, tornado)
 - [ ] Testing (unittest)
-- [ ] Project: CLI CRUD app for testing the above
 
 ## Database Administrator
 
