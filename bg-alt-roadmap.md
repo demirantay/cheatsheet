@@ -3,12 +3,12 @@
 ## Go Language
 
 - [ ] Learn the Basics:
-  - [ ] Basic syntax
-  - [ ] Variables and decleration
-  - [ ] Data types
-  - [ ] for loop
+  - [x] Basic syntax
+  - [x] Variables and decleration
+  - [x] Data types
+  - [x] for loop
   - [ ] range
-  - [ ] if, switch statements
+  - [x] if, switch statements
   - [ ] error, panic, recorver
   - [ ] Conditionals
   - [ ] Functions, multiple/named returns
