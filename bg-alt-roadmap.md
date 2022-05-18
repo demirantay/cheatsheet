@@ -7,19 +7,19 @@
   - [x] Variables and decleration
   - [x] Data types
   - [x] for loop
-  - [ ] range
+  - [x] range
   - [x] if, switch statements
-  - [ ] error, panic, recorver
-  - [ ] Conditionals
-  - [ ] Functions, multiple/named returns
-  - [ ] Packages, imports and exports
-  - [ ] Type casting
-  - [ ] Type interface
-  - [ ] Arrays
-  - [ ] Slices 
-  - [ ] Maps
+  - [x] error, panic, recorver
+  - [x] Conditionals
+  - [x] Functions, multiple/named returns
+  - [x] Packages, imports and exports
+  - [x] Type casting
+  - [x] Type interface
+  - [x] Arrays
+  - [x] Slices 
+  - [x] Maps
   - [ ] make()
-  - [ ] Structs
+  - [x] Structs
 - [ ] Going Deeper:
    - [ ] Go modules
    - [ ] Types, Type assertions, Switches
