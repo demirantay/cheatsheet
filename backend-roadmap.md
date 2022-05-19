@@ -10,10 +10,10 @@ PART 1
 
 | Topic | Practical Notes | Feynman Notes | Study S project | Study B project | Twitter, Linkedin |
 |--|--|--|--|--| -- |
-|Testing | X | X | x | | |
-|Backend Framework | | | | | |
+|Testing | | ☑︎ | ☑︎ | | |
+|Backend Framework | |  |  | | |
 |Relational Databases (alt) | | | | | |
-|NoSQL Databases | |x| | | |
+|NoSQL Databases | | ☑︎ | | | |
 |API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | |  | |
 |Caching (CDN, Client side, Server side) | | | | | |
 |Web Sockets| | | | | |
