@@ -157,16 +157,51 @@ Categories that I am interested in:
 ## Macro
 
 Psychology
-- a
+- [ ] The 33 Strategies of War - robert greene
+- [ ] Mastery - robert greene
+- [ ] The Art of Seduction - robert greene
+- [ ] The Laws of Human Nature - robert greene
+- [ ] “The Man Who Mistook His Wife for a Hat” - Oliver Sacks
+- [ ] “Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H. M.” - Suzanne Corkin
+- [ ] “Social: Why Our Brains Are Wired to Connect” - Matthew Lieberman
+- [ ] “Difficult Conversations: How to Discuss What Matters Most” - Bruce Patton, Douglas Stone, Sheila Heen (although I read this in a Communications class)
+- [ ] 'Thinking, Fast and Slow' by Daniel Kahnemann
+- [ ] Beyond Freedom and Dignity- B. F. Skinner
+- [ ] Science and Human Behavior-B. F. Skinner
+- [ ] The Social Animal
 
 Art
-- a
+- [ ] The Story of Art - Gombrich
+- [ ] Ways of seeing - Berger
+- [ ] Annotated Mona Lisa
+- [ ] Gardner's Art Through the Ages.
 
 Science 
-- a
+- [ ] A short History of Nearly Everything
+- [ ] Cosmos
+- [ ] A Brief History of Time
+- [ ] Godel Escher Bach
+- [ ] The Greatest Show on Earth
+- [ ] Surely You're Joking Mr. Feynman
+- [ ] Astrophysics for People in a Hurry
+- [ ] The Illustrated A Brief History of Time
+- [ ] Seven Brief Lessons on Physics
+- [ ] Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher
+- [ ] The Drunken Botanist: The Plants That Create the World's Great Drinks
+- [ ] The Accidental Universe: The World You Thought You Knew
+- [ ] Neurocomic: A Comic About the Brain
+- [ ] Nothing: Surprising Insights Everywhere from Zero to Oblivion 
 
 Philosophy
-- a
+- [ ] A Very Short Introduction series
+- [ ] The Philosophy Book: Big Ideas Simply Explained
+- [ ] A History of Western Philosophy: From the Pre-Socratics to Postmodernism
+- [ ] Philosophy 101 (An Essential Primer on the History of Thought)
+- [ ] How Philosophy Works: The Concepts Visually Explained
+- [ ] Think: A Compelling Introduction to Philosophy
+- [ ] A Little History of Philosophy
+- [ ] What Does It All Mean?: A Very Short Introduction to Philosophy
+- [ ] Philosophy: The Classics
 
 ## Micro
 
