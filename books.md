@@ -5,6 +5,7 @@
 Categories that I am interested in:
 
 `Macro`:
+- Self Improvement/mind
 - Psychology
 - Art
 - Science
@@ -154,7 +155,44 @@ Categories that I am interested in:
 - [ ] paulo freire - ezilenlerin pedagojisi
 - [ ] john berger - görme biçimleri
 
+
 ## Macro
+
+Self Improvement Mind
+- [ ] school of life - on mental ilness
+- [ ] The Body Keeps the Score - Bessel van
+- [ ] school of life - on failure
+- [ ] school of life - a simpler life
+- [ ] school of life - couples workbook
+- [ ] school of life - What They Forgot To Teach You At School
+- [ ] school of life - Who Am I?
+- [ ] school of life - Varieties of Melancholy
+- [ ] school of life - Self-Knowledge
+- [ ] school of life - Mind & Body
+- [ ] school of life - How to Overcome Your Childhood
+- [ ] school of life - Drawing As Therapy
+- [ ] school of life - How to Think More Effectively
+- [ ] school of life - Great Thinkers
+- [ ] school of life - The School of Life Library
+- [ ] school of life - Anxiety
+- [ ] school of life - What Can I Do When I Grow Up?
+- [ ] school of life - Thinking & Eating
+- [ ] school of life - A Replacement for Religion
+- [ ] school of life - Guide to Modern Manners
+- [ ] school of life - Arguments
+- [ ] school of life - Procrastination
+- [ ] school of life - How to Travel
+- [ ] school of life - Big Ideas for Curious Minds
+- [ ] school of life - What is Psychotherapy?
+- [ ] school of life - How to get Married
+- [ ] school of life - What is Culture For?
+- [ ] school of life - Phone Detox
+- [ ] school of life - Why We Hate Cheap Things Out of stock
+- [ ] school of life - On Confidence
+- [ ] school of life - Things Never To Tell Children
+- [ ] school of life - On Being Nice
+- [ ] school of life - Why You Will Marry the Wrong Person
+- [ ] school of life - Relationships
 
 Psychology
 - [ ] The 33 Strategies of War - robert greene
