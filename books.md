@@ -7,7 +7,6 @@ Categories that I am interested in:
 `Macro`:
 - Self Improvement/mind
 - Psychology
-- Art
 - Science
 - Philosophy
 
@@ -207,12 +206,6 @@ Psychology
 - [ ] Beyond Freedom and Dignity- B. F. Skinner
 - [ ] Science and Human Behavior-B. F. Skinner
 - [ ] The Social Animal
-
-Art
-- [ ] The Story of Art - Gombrich
-- [ ] Ways of seeing - Berger
-- [ ] Annotated Mona Lisa
-- [ ] Gardner's Art Through the Ages.
 
 Science 
 - [ ] A short History of Nearly Everything
