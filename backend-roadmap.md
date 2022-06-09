@@ -8,19 +8,19 @@ PART 1
 
 - [ ] ALT - Python
 
-| Topic | Practical Notes | Feynman Notes | Study S project | Study B project | Twitter, Linkedin |
-|--|--|--|--|--| -- |
-|Testing | | ☑︎ | ☑︎ | | |
-|Backend Framework | |  |  | | |
-|Relational Databases (alt) | | | | | |
-|NoSQL Databases | | ☑︎ | | | |
-|API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | |  | |
-|Caching (CDN, Client side, Server side) | | | | | |
-|Web Sockets| | | | | |
-|Web Servers (basic)| | | | | |
-|Search Engine| | | | | |
-|Message Brokers| | | | | |
-|GraphQL| | | | | |
+| Topic | Practical Notes | Feynman Notes | Project (medium complexity) | Twitter, Linkedin |
+|--|--|--|--|--| 
+|Testing | | ☑︎ | ☑︎ | | 
+|Backend Framework | |  |  | | 
+|Relational Databases (alt) | | | | | 
+|NoSQL Databases | | ☑︎ | | | 
+|API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | |  
+|Caching (CDN, Client side, Server side) | | | | | 
+|Web Sockets| | | | | 
+|Web Servers (basic)| | | | | 
+|Search Engine| | | | | 
+|Message Brokers| | | | | 
+|GraphQL| | | | | 
 
 PART 2
 | Topic | Practical Notes | Feynman Notes | Study S project | Study B project | Twitter, Linkedin |
