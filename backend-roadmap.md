@@ -8,28 +8,28 @@ PART 1
 
 - [ ] ALT - Python
 
-| Topic | Practical Notes | Feynman Notes | Project (medium complexity) | Twitter, Linkedin |
-|--|--|--|--|--| 
-|Testing | | ☑︎ | ☑︎ | | 
-|Backend Framework | |  |  | | 
-|Relational Databases (alt) | | | | | 
-|NoSQL Databases | | ☑︎ | | | 
-|API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | |  
-|Caching (CDN, Client side, Server side) | | | | | 
-|Web Sockets| | | | | 
-|Web Servers (basic)| | | | | 
-|Search Engine| | | | | 
-|Message Brokers| | | | | 
-|GraphQL| | | | | 
+| Topic | Practical Notes | Feynman Notes | Project (small 1-10k loc) |
+|--|--|--|--|
+|Testing | | ☑︎ | ☑︎ |  
+|Backend Framework | |  |  | 
+|Relational Databases (alt) | | | | 
+|NoSQL Databases | | ☑︎ | | 
+|API (JSON, REST, Authentication (OAuth, Basic, Token, JWT)) | | | 
+|Caching (CDN, Client side, Server side) | | |  
+|Web Sockets| | | | 
+|Web Servers (basic)| | | | 
+|Search Engine| | | | 
+|Message Brokers| | | | 
+|GraphQL| | | | 
 
 PART 2
-| Topic | Practical Notes | Feynman Notes | Study S project | Study B project | Twitter, Linkedin |
-|--|--|--|--|--|-- |
-| Software Development Principles (SOLID, KISS, YAGNI)| | | | | |
-| Software Design Patterns (Factory, Strategy Observer, Singleton) | | | | | |
-| Architectual Patterns (Microservices, Monolithic, Serverless) | | | | | |
-|Scalability (Migration strategies, Horizontal and Vertical scaling, Building with Observibilty | | | | | |
-|Web Security| | | | | |
+| Topic | Practical Notes | Feynman Notes | Project (small 1-10k loc |
+|--|--|--|--|
+| Software Development Principles (SOLID, KISS, YAGNI)| | | | 
+| Software Design Patterns (Factory, Strategy Observer, Singleton) | | | | 
+| Architectual Patterns (Microservices, Monolithic, Serverless) | | | | 
+|Scalability (Migration strategies, Horizontal and Vertical scaling, Building with Observibilty | | | | 
+|Web Security| | | | |
 
 # Practice
 
