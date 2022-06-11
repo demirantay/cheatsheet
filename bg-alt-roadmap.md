@@ -47,33 +47,33 @@
 
 ## Python
 
-- [ ] Learn the Basics:
-  - [ ] Basic syntax
-  - [ ] Variables Data Types
-  - [ ] Conditionals
-  - [ ] Type Casting, Exeptions
-  - [ ] Functions, Built-in functions
-  - [ ] Lists, Tuples, Sets, Dictionaries
-- [ ] Data Structures and Algorithms
-  - [ ] Arrays and Linked Lists
-  - [ ] Heaps, Stacks and Queues
-  - [ ] Hash Tables
-  - [ ] Binary Search Trees
-  - [ ] Recursion
-  - [ ] Sorting Algorithms
-- [ ] Advanced Topics
-  - [ ] OOP (Classes, Inheritance, Methods, etc.)
-  - [ ] Iterators
-  - [ ] Modules (Built-in, custom)
-  - [ ] Regular expressions
-  - [ ] Decorators
-  - [ ] Lambdas
+- [x] Learn the Basics:
+  - [x] Basic syntax
+  - [x] Variables Data Types
+  - [x] Conditionals
+  - [x] Type Casting, Exeptions
+  - [x] Functions, Built-in functions
+  - [x] Lists, Tuples, Sets, Dictionaries
+- [x] Data Structures and Algorithms
+  - [x] Arrays and Linked Lists
+  - [x] Heaps, Stacks and Queues
+  - [x] Hash Tables
+  - [x] Binary Search Trees
+  - [x] Recursion
+  - [x] Sorting Algorithms
+- [x] Advanced Topics
+  - [x] OOP (Classes, Inheritance, Methods, etc.)
+  - [x] Iterators
+  - [x] Modules (Built-in, custom)
+  - [x] Regular expressions
+  - [x] Decorators
+  - [x] Lambdas
 - [ ] Package Managers
   - [ ] PyPi
   - [ ] pip
-- [ ] Learn a framework 
-  - [ ] Sync (django, flask)
-  - [ ] Async (aiohttp, tornado)
+- [x] Learn a framework 
+  - [x] Sync (django, flask)
+  - [x] Async (aiohttp, tornado)
 - [ ] Testing (unittest)
 
 ## Database Administrator
