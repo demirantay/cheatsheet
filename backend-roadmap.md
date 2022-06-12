@@ -36,6 +36,7 @@ PART 2
 > Create a blog and social media postings for all of the below
 
 - `Every Programmer Should Code at least Once`:
+  - [ ] Your own css library.
   - [ ] Reimplement every major data structure (linked list, maps/hashes, sets, stacks and queues, etc) (WEB)
   - [ ] Write a basic arcade games using graphics (Pong, RogueLike) (WEB)
   - [ ] A program that controls something in the outside world in some way (a robot, via an Arduino, etc)
