@@ -26,7 +26,7 @@ Categories that I am interested in:
 
 ## My own library
 
-- [ ] Atomic Habits
+- [x] Atomic Habits
 - [ ] 12 rules for life
 - [ ] Kurk Mantolu Madonna - sabahattin ali
 - [ ] Ataturk - lord kinross
