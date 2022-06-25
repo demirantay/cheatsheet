@@ -158,6 +158,20 @@ Categories that I am interested in:
 ## Macro
 
 Self Improvement Mind
+- [ ] David Allen, How to Get Things Done
+- [ ] Stephen R. Covey, The 7 Habits of Highly Effective People
+- [ ] Jake Knapp and John Zeratsky, Make Time
+- [ ] Oliver Burkeman, Four Thousand Weeks
+- [ ] Greg McKeown, Essentialism
+- [ ] Sonke Ahrens, How to Take Smart Notes
+- [ ] Tiago Forte, "Building a Second Brain" 
+- [ ] Steven Pressfield, The War of Art 
+- [ ] Cal Newport, Deep Work
+- [ ] Katy Milkman, How to Change
+- [ ] Ryder Carroll, The Bullet Journal Method
+- [ ] Angela Duckworth, Grit
+- [ ] Carol Dwek, Mindset
+- [ ] Jenny Odell, How to Do Nothing
 - [ ] school of life - on mental ilness
 - [ ] The Body Keeps the Score - Bessel van
 - [ ] school of life - on failure
