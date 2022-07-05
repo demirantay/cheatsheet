@@ -160,6 +160,7 @@ Categories that I am interested in:
 Self Improvement Mind
 - [ ] David Allen, How to Get Things Done
 - [ ] Stephen R. Covey, The 7 Habits of Highly Effective People
+- [ ] How to win friends and influence people. 
 - [ ] Jake Knapp and John Zeratsky, Make Time
 - [ ] Oliver Burkeman, Four Thousand Weeks
 - [ ] Greg McKeown, Essentialism
