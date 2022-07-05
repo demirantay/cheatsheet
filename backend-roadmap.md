@@ -31,37 +31,6 @@ PART 2
 |Scalability (Migration strategies, Horizontal and Vertical scaling, Building with Observibilty | | | | 
 |Web Security| | | | |
 
-# Practice
-
-> Create a blog and social media postings for all of the below
-
-- `Every Programmer Should Code at least Once`:
-  - [ ] Your own css library.
-  - [ ] Reimplement every major data structure (linked list, maps/hashes, sets, stacks and queues, etc) (WEB)
-  - [ ] Write a basic arcade games using graphics (Pong, RogueLike) (WEB)
-  - [ ] A program that controls something in the outside world in some way (a robot, via an Arduino, etc)
-  - [ ] Write an interpreter for a programming language
-  - [ ] Write your own text editor/IDE (heavily customizing it with keyboard shortcuts and extra features to match your workflow). (WEB)
-  - [ ] Write your own basic webserver, hook it up to the internet, and host a basic website from it.
-  - [ ] Create a basic database (something similar to sqlite)
-  - [ ] Write your own operating system (or make a heavily customized one based on Linux or something)
-
-- `Backend Projects`:
-  - [ ] Project using: Web framework, RDBMS, testing
-  - [ ] Project using: Web framework, RDBMS, testing, API
-  - [ ] Project using: Web framework, NoSQL, testing, API 
-  - [ ] Project using: Web framework, RDBMS, testing, API, Caching
-  - [ ] Project using: ...
-
-- `Devops Projects`:
-  - [ ] Write your own little OS
-  - [ ] Write a basic linux packet
-  - [ ] Write a basic linux app
-  - [ ] tmux clone
-  - [ ] 10 autmation scripts
-  - [ ] Vim clone
-  - [ ] Clone bash tools
-  - [ ] ... 
 
 # Devops Learning
 
