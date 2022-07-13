@@ -24,30 +24,6 @@ Categories that I am interested in:
 
 > Only check the box if you have created your notes
 
-## My own library
-
-- [x] Atomic Habits
-- [ ] 12 rules for life
-- [ ] Kurk Mantolu Madonna - sabahattin ali
-- [ ] Ataturk - lord kinross
-- [ ] Iktidar - robert greene
-- [ ] Savas sanati - lord tzu
-- [ ] sanat 101
-- [ ] A dan Zye sanat tarihi
-- [ ] Umberto ile sanat 1
-- [ ] Umberto ile sanat 3
-- [ ] Egitim bir kitle imha silahi
-- [ ] Bilimin kisa tarihi
-- [ ] zengin baba yoksul baba
-- [ ] Dakikalar icinde piskoloji
-- [ ] Dakikalar icinde dunya tarihi
-- [ ] tufek mikrop ve celik
-- [ ] pragmatizm - william james
-- [ ] evren 101
-- [ ] muzik teorisi 101
-- [ ] para yonetimi 101
-- [ ] astroloji 101
-
 ## 100 list
 
 - [ ] niccolo machiavelli - prens
