@@ -1,4 +1,4 @@
-# Notes
+> Digital Notebook
 
 ## Syllabus
 
