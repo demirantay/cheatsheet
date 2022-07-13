@@ -1,3 +1,0 @@
-# Rest API
-
-## Authentication
