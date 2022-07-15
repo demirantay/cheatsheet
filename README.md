@@ -13,6 +13,5 @@
 - [Standarts and Best Practices](./feynman/backend/standarts-best-practices.md)
 - [Testing](./feynman/backend/testing.md)
 - [API](./feynman/backend/api.md)
-- [REST api](./feynman/backend/rest-api.md)
 - [Web Frameworks](./feynman/backend/web-framework.md)
 - [NoSQL](./feynman/backend/no-sql.md)
