@@ -9,6 +9,8 @@
 
 ## Feynman
 
+> 5n1k: what, how, why, where, when, who
+
 #### Backend
 - [Standarts and Best Practices](./feynman/backend/standarts-best-practices.md)
 - [Testing](./feynman/backend/testing.md)
