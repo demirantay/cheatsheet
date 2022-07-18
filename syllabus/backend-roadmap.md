@@ -1,7 +1,5 @@
 ### Backend TODO
 
-Method: `1-month` Learning | `1-month` Project | `1-month` Devops
-
 # Backend Learning
 
 PART 1
