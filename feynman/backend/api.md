@@ -23,11 +23,49 @@ That is why the industry standartized the way we wrote APIs. Even though you can
 
 Large tech companies, especially social media companies frequently make their aggregate data available to the public, but APIs are also maintained by government organizations, conferences, publishing houses, software startups, fan groups, eSports leagues and even individuals, in order to share anything from social media content to trivia questions, rankings, maps, song lyrics, recipes, parts lists and more. In short, any person or organization that collects data might have an interest in making that data available for use by a different app.
 
-# JSON
+# REST
 
-### What exactly is json?
+The main thing about REST is that it's stateless. That means that it doesn't maintain some sort of session or anything like that. So you shouldn't need to do a handshake or anything. If you send a request with the right headers then you will get a response (though those headers might include some sort of authentication).
 
-### Why do we need it?
+REST should not return a user interface either - only data.
 
-### How to use and create json?
+e.g. you don't get a bunch of java-script and HTML to be rendered in order to interface with the API - you get data in some form, and the details of the interface are up to your application (which indeed may get HTML and JS or other interface from some other source).
 
+In a colloquial sense, REST apis generally mean:
+- You get JSON data back
+- You correctly use HTTP Methods
+  - GET should only get data, not change the state of the data
+  - POST should only create a new record
+  - PUT should only update all the fields of a record
+  - PATCH should only update some of the fields of a record
+  - DELETE should only delete records
+
+There are other things that could be used instead of JSON or HTTP methods and still be RESTful, but generally this is what it used.
+e.g.:
+```
+GET api/movies/1
+```
+returns
+```
+{
+    "id": 1,
+    "name": "Con Air",
+    "reviews": [
+        {
+            "id": 1,
+            "content": "A triumph"
+        }
+    ] 
+}
+```
+and for post
+```
+POST api/movies/1/reviews
+
+BODY:
+{
+    "content": "Best movie ever"
+}
+```
+
+# Authentication
