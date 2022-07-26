@@ -1,5 +1,3 @@
-> Digital Notebook
-
 ## Syllabus
 
 - [backend](./syllabus/backend-roadmap.md)
