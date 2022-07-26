@@ -69,3 +69,15 @@ BODY:
 ```
 
 # Authentication
+
+If a client application tries to access another application, the target API wants to know: Is the client really the client it claims to be? The API authentication process validates the identity of the client attempting to make a connection by using an authentication protocol. he protocol sends the credentials from the remote client requesting the connection to the remote access server in either plain text or encrypted form.
+
+That’s essentially what API authentication is all about.
+
+So, what is the difference between authentication and authorization? Simply put, authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to.
+
+There are a variety of ways to authenticate API requests. Here are the three most common methods:
+- Basic Authentication - The simplest way to handle authentication is through the use of HTTP, where the username and password are sent alongside every API call. You can use an HTTP header and encode the username and password. Note that does not mean . If you end up using HTTP Basic Authentication, use it through HTTPS so the connection between the parties is encrypted.
+- API key authentication - This method creates unique keys for developers and passes them alongside every request. The API generates a secret key that is a long, difficult-to-guess string of numbers and letters—at least 30 characters long, although there’s no set standard length. It is typically passed alongside the API authorization header.
+- OAuth authentication - For HTTP services, you can give third-party developers access by using the OAuth 2.0 authorization framework. This framework can orchestrate approvals automatically between the API owner and the service, or you can also authorize developers to obtain access on their own.
+- no authentication - There’s always the option of applying no authentication at all. Developers can just make a request to a specific URL and get a response without needing any credentials or an API key. This approach is commonly used in internal APIs hosted on-premises but is not a recommended practice.
