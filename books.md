@@ -26,6 +26,8 @@ Categories that I am interested in:
 
 ## 100 list
 
+- [ ] Mark manson - subtle art of not giving a fuck
+- [ ] Mark manson - models
 - [ ] niccolo machiavelli - prens
 - [ ] Sun tzu - the art of war
 - [ ] Hitchikers Guide to Galaxy - Douglass Adams
