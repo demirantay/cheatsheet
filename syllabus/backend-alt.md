@@ -77,6 +77,64 @@
   - [x] Async (aiohttp, tornado)
 - [ ] Testing (unittest)
 
+## Node.js
+
+- [ ] alt-frontend-javascript
+- [ ] Intro
+  - [ ] What is nodejs
+  - [ ] why use nodejs
+  - [ ] history of nodejs
+  - [ ] nodejs vs browser
+- [ ] Modules
+  - [ ] creating custom modules
+  - [ ] [global] keyword
+  - [ ] commonJS, ESM
+- [ ] npm
+  - [ ] npx
+  - [ ] global installation, local installation
+  - [ ] updating pacakges
+  - [ ] running scripts
+  - [ ] using installed packages
+  - [ ] creating pacakages (private, public)
+- [ ] Error handling
+  - [ ] uncaught exceptions
+  - [ ] types of errors (js, system, user specified, assertion)
+  - [ ] handling async errors
+  - [ ] call stack & stack trace
+  - [ ] using debugger
+- [ ] Asnychronous Programming
+  - [ ] Event emitter
+  - [ ] promisses, async/await, callbacks, settimeout, setinterval, setimmediate, process)
+- [ ] Working with files
+  - [ ] process.cwd()
+  - [ ] path module
+  - [ ] fs module
+  - [ ] __ dirname
+  - [ ] __ filename
+  - [ ] opensource packages
+- [ ] Command Line apps
+  - [ ] taking input (prompts, inquirer)
+  - [ ] printing output (chalk, etc.)
+  - [ ] exitting & exit codes
+  - [ ] environment variables
+  - [ ] command line args
+- [ ] working with APIs
+  - [ ] HTTP Server (nestjs, express, http module)
+  - [ ] Making API calls (http, axios, unfect)
+  - [ ] Authentication (jsonwebtoken, passportjs)
+- [ ] Keep application running (nodemon)
+- [ ] Templating engines (pug, marko)
+- [ ] Working with databases
+  - [ ] Relational
+  - [ ] Document (NoSQL)
+- [ ] Testing
+- [ ] Logging (winston, morgan)
+- [ ] Keep application running (nohup, pm2)
+- [ ] Threads (child process, cluster, worker)
+- [ ] Streams
+- [ ] Debugging (memory leak, node --inspect, using APM)
+- [ ] Common built in modules (fs, os, net, path, url, http, crypto)
+
 ## Database Administrator
 
 - [ ] Basic RDBMS terms 
