@@ -1,1 +1,90 @@
 # Frontend Alt 
+
+## React
+
+- [ ] Funedmentals
+  - [ ] Create react app
+  - [ ] jsx
+  - [ ] components (functional, class)
+  - [ ] props vs state
+  - [ ] conditional rendering
+  - [ ] component life cycle
+  - [ ] lists and keys
+  - [ ] composition and inheritance
+  - [ ] basic hooks
+  - [ ] useState, useEffect
+- [ ] Advanced Topics
+  - [ ] hooks
+  - [ ] context
+  - [ ] refs
+  - [ ] render props
+  - [ ] high order components
+  - [ ] portals
+  - [ ] error boundaries
+  - [ ] fiber architecture
+- [ ] Ecosystem
+  - [ ] routers
+  - [ ] ssr
+  - [ ] ssg
+  - [ ] api calls (graphql, rest api calls)
+  - [ ] forms
+  - [ ] testing
+  - [ ] state management
+  - [ ] styling
+  - [ ] mobile
+
+## JavaScript
+
+- [ ] Variables
+  - [ ] decleration (var, let, const)
+  - [ ] hoisting
+  - [ ] naming rules
+  - [ ] scopes (global, function, block)
+- [ ] Data Types
+  - [ ] primitives (str, int, bool .etc.)
+  - [ ] Object (protypical inheritance, object prototype)
+  - [ ] Built in objects
+  - [ ] typeof
+- [ ] Type Casting
+  - [ ] excplicit
+  - [ ] implicit
+  - [ ] conversion and coercion
+- [ ] data structures
+  - [ ] arrays
+  - [ ] keyed collections (map, weak map, set, weak set)
+  - [ ] structured (JSON)
+- [ ] Equallity
+  - [ ] ==, ===, Object.is
+  - [ ] isLooselyEqual
+  - [ ] isStrictlyEqual
+  - [ ] SameValueZero
+  - [ ] SameValue
+- [ ] Loops
+  - [ ] for, do while, while
+  - [ ] for .. in, for .. of
+  - [ ] break/continue
+- [ ] Control Flow 
+  - [ ] conditionals (if else, switch)
+  - [ ] exception handling (throw, try catch finally, error objects)
+- [ ] Functions
+  - [ ] parameters (default, rest)
+  - [ ] arrow functions
+  - [ ] IIFE
+  - [ ] scope, function stack (recursion, lexical scoping, closures)
+  - [ ] built in functions
+- [ ] Strict Mode
+- [ ] `this` keyword
+  - [ ] function borrowing
+  - [ ] in a method
+  - [ ] in a function
+  - [ ] using it alone
+  - [ ] in event handlers
+  - [ ] in arrow functions
+- [ ] Asynchrnous Javascript
+  - [ ] setTimeout, setInterval
+  - [ ] Callbacks 
+  - [ ] Promises - async/await
+- [ ] Classes
+- [ ] Iterators and Generators
+- [ ] Modules in Javascript 
+- [ ] Chrome Dev Tools
