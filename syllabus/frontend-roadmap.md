@@ -1,14 +1,10 @@
 # Road Map
 
-### Main Learnings
-- [ ] Javascript
-- [ ] Web Browser
-
-### Frontend Learnings
+### Learning
 
 - [X] HTML
 - [X] CSS
-- [X] Javascript
+- [ ] Javascript - alt
 - [X] Version Control System, Repos
 - [X] Terminal usage
 - [ ] Package Managers
@@ -30,7 +26,7 @@
 - [ ] Desktop applications
 - [ ] Web Assembly
 
-### Frontend Projects
+### Projects
 
 - [ ] Dribble landing page clone
 - [X] Calculator with JS
