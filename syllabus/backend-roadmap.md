@@ -1,6 +1,6 @@
 # Backend & DevOps 
 
-> 1 - Feynman | 2 - Practical Notes | 3 - 
+> 1 - Feynman | 2 - Practical Notes | 3 - Small Project (in order to check a box)
 
 ## Backend Learning
 
