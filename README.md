@@ -8,6 +8,7 @@
 - [frontend-alt](./syllabus/frontend-alt.md)
 - [compsci](./syllabus/compsci-roadmap.md)
 - [projects](./syllabus/projects.md)
+- [graphic-design](./syllabus/graphic-design.md)
 
 ## Feynman
 
