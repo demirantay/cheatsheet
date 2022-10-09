@@ -9,10 +9,6 @@ Table of Contents
 - [Practice](#practice)
 - [Art History](#art-history)
 
-## Design Theory
-
-- [ ] 
-
 ## Technical Skills
 
 - [ ] Photoshop
@@ -26,6 +22,14 @@ Table of Contents
   - [ ] Dynamic Sketching
   - [ ] Procrate 
   - [ ] 100 exersices
+
+## Design Theory
+
+- [ ] Alignment
+- [ ] Repetition
+- [ ] Contrast
+- [ ] Hierarchy
+- [ ] Balance
 
 ## Practice
 
