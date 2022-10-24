@@ -2,6 +2,7 @@
 
 > Learning method: Feynman - Practical Notes - Small Project
 
+- [programming](./syllabus/programming.md)
 - [backend](./syllabus/backend-roadmap.md)
 - [backend-alt](./syllabus/backend-alt.md)
 - [frontend](./syllabus/frontend-roadmap.md)
