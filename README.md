@@ -2,13 +2,12 @@
 
 > Learning method: Feynman - Practical Notes - Small Project
 
+Computer
 - [programming](./syllabus/programming.md)
-- [backend](./syllabus/backend-roadmap.md)
-- [backend-alt](./syllabus/backend-alt.md)
-- [frontend](./syllabus/frontend-roadmap.md)
-- [frontend-alt](./syllabus/frontend-alt.md)
 - [compsci](./syllabus/compsci-roadmap.md)
 - [projects](./syllabus/projects.md)
+
+Business
 - [graphic-design](./syllabus/graphic-design.md)
 
 ## Feynman
