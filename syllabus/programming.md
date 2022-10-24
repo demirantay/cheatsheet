@@ -102,11 +102,46 @@ Classes:
     - [ ] Paradigm Features (abstract classes, scope visibilty .etc.)
     - [ ] Primary Principles (inheritance, polymorphism, abstraction)
  - [ ] Design Principles
+    - [ ] Composition over inheritance
+    - [ ] Encapsulate what varies
+    - [ ] Program against abstractions
+    - [ ] Hollywood principle
+    - [ ] SOLID, DRY, YAGNI
  - [ ] Design Patterns
+    - [ ] GoF Design Patterns
+    - [ ] PoSA Patterns
  - [ ] Architectual Principles
+    - [ ] component principles
+    - [ ] policy vs detail
+    - [ ] coupling vs cohesion
+    - [ ] boundaries
  - [ ] Architectual Styles
+    - [ ] Messaging (event driven, publish-subscribe)
+    - [ ] Distributed (client-server, peer to peer)
+    - [ ] Structural (component-based, monolithic, layered)
  - [ ] Architectual Patterns
+    - [ ] SOA
+    - [ ] CQRS
+    - [ ] Domain driven design
+    - [ ] model view controller
+    - [ ] microservices
+    - [ ] blackboard pattern
+    - [ ] microkernel
+    - [ ] serverless architecture
+    - [ ] message queues/ streams
+    - [ ] event sourcing
  - [ ] Enterprise Patterns
+    - [ ] DTOs
+    - [ ] Identity Maps
+    - [ ] Use Cases
+    - [ ] Repositories
+    - [ ] Mappers
+    - [ ] Transaction Script
+    - [ ] Commands / Queries
+    - [ ] Value Objects
+    - [ ] Domain Models
+    - [ ] Entitites
+    - [ ] ORMs
 
 ## `DevOps`
 
