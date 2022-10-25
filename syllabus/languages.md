@@ -79,12 +79,11 @@
 
 ## Node.js
 
-- [ ] alt-frontend-javascript
-- [ ] Intro
-  - [ ] What is nodejs
-  - [ ] why use nodejs
-  - [ ] history of nodejs
-  - [ ] nodejs vs browser
+- [x] Intro
+  - [x] What is nodejs
+  - [x] why use nodejs
+  - [x] history of nodejs
+  - [x] nodejs vs browser
 - [ ] Modules
   - [ ] creating custom modules
   - [ ] [global] keyword
