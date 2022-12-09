@@ -8,7 +8,8 @@
   - [projects](./syllabus/projects.md)
   - [languages](./syllabus/languages.md)
 - Business
-  - [graphic-design](./syllabus/graphic-design.md)
+  - [digital marketing](./syllabus/digital-marketing.md)
+  - [traditional marketing](./syllabus/traditional-marketing.md)
 
 ## Feynman
 
