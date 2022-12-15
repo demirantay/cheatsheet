@@ -7,9 +7,11 @@
   - [compsci](./syllabus/compsci-roadmap.md)
   - [projects](./syllabus/projects.md)
   - [languages](./syllabus/languages.md)
-- Business
+- Marketing
   - [digital marketing](./syllabus/digital-marketing.md)
   - [traditional marketing](./syllabus/traditional-marketing.md)
+- Data Science
+  - [...]()
 
 ## Feynman
 
