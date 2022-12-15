@@ -1,13 +1,10 @@
 # Digital Marketing
 
-> AA x B
+`Method` -> Reading -> Feynman Note -> Practical Note -> Small Project -> Big Project
 
-`Methodoloy:` -> `Practical Notes` -> `Project` -> `Feynman`
+## Reading
 
-## Learning
-
-#### Learning: `Marketing`
-
+Marketing
 - [ ] Book: My life in advertising
 - [ ] Book: This is marketing
 - [ ] Book: The Greatest Salesman in the World by If Mandino
@@ -16,8 +13,7 @@
 - [ ] Book: The Compound Effect by Darren Hardy
 - [ ] Book: Thinking Fast & Thinking Slow by Daniel Kahneman
 
-#### Learning: `Digital`
-
+Digital
 - [ ] Course: Udemy Course 1
 - [ ] Course: Udemy Course 2
 - [ ] Book: Digital Marketing for dummies
@@ -39,8 +35,7 @@
 - [ ] Book: Inbound Content by Justin Champion
 - [ ] Book: Enablement Mastery by Elay Cohen
 
-## Projects & Feynman
-
+## Learning Methodology
 Marketing
 - [ ] ...
 
