@@ -1,1 +1,87 @@
-# Computer Science | Learning Tree
+# Computer Science | Tree
+
+- [ ] Learn C and Go
+- [ ] Data Structures
+  - [ ] Array
+  - [ ] Linked List
+  - [ ] Queue
+  - [ ] Hash Table
+  - [ ] Tree (binary, binary search, full binary, complete binary, balanced, unbalanced, )
+  - [ ] Graph (directed, undirected, adjacency matrix, spanning tree, adjacency List
+  - [ ] Heap
+- [ ] Asymptotic Notation
+  - [ ] Big O Notation
+  - [ ] Big Theta Notaion
+  - [ ] Big Omega Notation
+  - [ ] Common Runtimes (constant, logarithmic, linear, polynomial, exponential, factorial)
+- [ ] Common Algorithms
+  - [ ] Sorting (bubble, selection, insertion, heap, quick, merge)
+  - [ ] Searching (binary, linear)
+  - [ ] Recursion (tail, non-tail)
+  - [ ] Tree (pre-order traversal, in-order traversal, post order traversal, breadth first search, depth first search)
+  - [ ] Graph (breadth first search, depth first search, bellman-ford, djisktras, A* algorithm)
+  - [ ] Greedy (djisktras, huffman coding, kruksals, ford-fulkerson, prims)
+  - [ ] Back tracking (finding hamiltonian paths, solving n queen, maze solving, the knights tour, rabin karp)
+  - [ ] Caching (LRU chche, LFU cache, MFU cache)
+- [ ] String Search & Manipulations
+  - [ ] Search pattern in text
+  - [ ] Suffix Arrays
+  - [ ] Substring search (brute force, knuth-morris, boyer-moore, rabin-karp)
+- [ ] Bitewise Operators
+- [ ] Floating Point Numbers
+- [ ] Endianes
+  - [ ] Big Endian
+  - [ ] Little Endian
+- [ ] Character Encodings
+  - [ ] Unicode
+  - [ ] ASCII
+- [ ] Common UML Diagrams
+  - [ ] Class Diagrams
+  - [ ] Usecase Diagrams
+  - [ ] Activity Diagrams
+  - [ ] Statemachine Diagrams
+  - [ ] Sequence Diagrams
+- [ ] Design Patterns 
+  - [ ] GoF design patterns
+  - [ ] Architectual patterns
+  - [ ] Dependency injection
+  - [ ] Null object pattern
+  - [ ] Type object pattern 
+- [ ] Basic Math
+  - [ ] Probability
+  - [ ] Combinatorics
+- [ ] Complexity Classes
+  - [ ] P
+  - [ ] NP
+  - [ ] Co-NP
+  - [ ] NP-Hard
+  - [ ] Np Complete (traveling salesman, knapscak, longest path)
+  - [ ] P = NP
+- [ ] Tries
+- [ ] Balanced Search Trees
+  - [ ] AVL Trees
+  - [ ] Red / Black Trees
+  - [ ] 2-3 Search Trees
+  - [ ] 2-3-4 Trees
+  - [ ] K-ary / M-ary Tree
+  - [ ] B-Tree
+- [ ] System Design
+  - [ ] Horizontal vs Vertical Scaling
+  - [ ] Load Balancing
+  - [ ] Clustering
+  - [ ] Caching
+  - [ ] CDN
+  - [ ] Proxy
+  - [ ] CAP Theorem
+  - [ ] Queues
+  - [ ] Architectual Styles
+  - [ ] REST
+  - [ ] GraphQL
+  - [ ] gRPC
+  - [ ] Cloud Design Patterns
+  - [ ] Long Polling
+  - [ ] Short Polling
+  - [ ] Web Sockets
+  - [ ] SSE
+- [ ] Databases 
+  - [ ] ...
