@@ -1,4 +1,4 @@
-# System
+# 🧠 System
 
 🔑 `Motto` → *“I want these 2 hours in my schedule to give me ruthless pragmatic information that will aid me in my financial and mission goals. Sometimes it can lend me information about secondary goals as well, such as learning how to play the piano.”*
 
