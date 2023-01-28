@@ -1,1 +1,0 @@
-# Graphic Design | Learning Tree
