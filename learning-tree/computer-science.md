@@ -84,4 +84,51 @@
   - [ ] Web Sockets
   - [ ] SSE
 - [ ] Databases 
-  - [ ] ...
+  - [ ] SQL and NoSQL databases
+  - [ ] Normalization / Deonormalization
+  - [ ] Entity-relationship model
+  - [ ] DDL
+  - [ ] DML
+  - [ ] DQL
+  - [ ] DCL
+  - [ ] Locking 
+  - [ ] Transactions
+  - [ ] AICD model
+  - [ ] BASE model
+  - [ ] CAP Theorem
+  - [ ] PACELC
+  - [ ] Indexes
+  - [ ] Views
+  - [ ] Transactions
+  - [ ] Stored Procedures
+  - [ ] Database Federation
+  - [ ] Replication
+  - [ ] Sharding
+- [ ] Networking
+  - [ ] OSI model
+  - [ ] TCP/IP model
+  - [ ] DNS
+  - [ ] HTTP
+  - [ ] HTTPS/TLS
+  - [ ] Sockets
+- [ ] Security
+  - [ ] Public key cryptography
+  - [ ] hashing, encryption, encoding
+  - [ ] hashing algorithms
+  - [ ] owasp top 10
+- [ ] How Computers Work
+  - [ ] How CPU executes programs?
+  - [ ] How computers calculate
+  - [ ] Registers and RAM
+  - [ ] Instructions and Programs
+  - [ ] CPU Cache
+- [ ] Processes and Threads
+  - [ ] Process Forking
+  - [ ] Memory Management
+  - [ ] Lock/mutex/semaphore
+  - [ ] concurrency in multiple cores
+  - [ ] scheduling algorithms
+  - [ ] cpu interrutps
+  - [ ] processes vs threads
+- [ ] K - D Trees
+- [ ] Skip Lists
