@@ -1,1 +1,165 @@
 # Software Engineering | Tree
+
+> 2023
+
+## Backend
+
+- [ ] Language (python, go, java, ruby)
+- [ ] Version control system (git)
+- [ ] Repo hosting services (github, bitbucket)
+- [ ] Web frameworks
+- [ ] Relational Databases (postgresql, mysql)
+- [ ] NoSQL Databases
+  - [ ] Document DB (mongodb)
+  - [ ] Time Series (InfluxDB)
+  - [ ] Realtime (firebase)
+  - [ ] ColumnDB (cassandra)
+  - [ ] Key-value (redis)
+  - [ ] Graph DB (Neo4j)
+- [ ] More about databases
+  - [ ] ORMs
+  - [ ] ACID
+  - [ ] Transactions
+  - [ ] N+1 Problem
+  - [ ] Normalization
+  - [ ] Faliure Modes
+  - [ ] Profiling Performance
+- [ ] Scaling Databases
+  - [ ] Database Indexes
+  - [ ] Data Replication
+  - [ ] Sharding Strategies
+  - [ ] CAP Theorem
+- [ ] API's
+  - [ ] REST
+  - [ ] JSON APIs
+  - [ ] Authentication (Oauth, Basic auth, token auth, JWT)
+  - [ ] gRPC
+- [ ] Caching
+  - [ ] Client side
+  - [ ] Server side (redis, memecached)
+  - [ ] CDN
+- [ ] Web Security 
+  - [ ] sha family
+  - [ ] scrypt
+  - [ ] bcrypt
+  - [ ] HTTPS
+  - [ ] OWASP risks
+  - [ ] CORS
+  - [ ] SSL/TLS
+  - [ ] Content security policy
+  - [ ] Server security
+- [ ] Testing
+  - [ ] Integration testing
+  - [ ] Unit testing
+  - [ ] Functional testing
+- [ ] CI/CD
+- [ ] Software Design and Architecture (in a differnt roadmap < below)
+- [ ] Design and Development Principles
+  - [ ] GOF Design patterns
+  - [ ] domain driven design
+  - [ ] test driven development
+  - [ ] CQRS
+  - [ ] event sourcing
+- [ ] Architectual patterns
+  - [ ] monolithic
+  - [ ] microservices
+  - [ ] SOA
+  - [ ] serverless
+  - [ ] service mesh
+  - [ ] twelve factor app
+- [ ] Search Engines (elastic search, solr)
+- [ ] Message Brokers (rabbitMQ)
+- [ ] Containers and Virtualization
+  - [ ] Docker
+  - [ ] Kuberneetes
+- [ ] GraphQL (apollo)
+- [ ] Web Sockets
+- [ ] Server Sent Events
+- [ ] Web Servers (nginx)
+- [ ] Building for scale
+  - [ ] Migration Strategies (graceful degradation, throttling, backpressure, loadshifting, circuit breaker)
+  - [ ] Types of scaling
+  - [ ] Observability
+  - [ ] Difference between -> insturmentation, monitoring, telemtry
+
+## Software Design and Architecture
+
+- [ ] Clean Code Principles
+- [ ] Programming Paradigms
+  - [ ] structured programming
+  - [ ] functional programming
+  - [ ] object oriented programming
+- [ ] Object Oriented Programming
+  - [ ] primary principles (inheritance, polymorphism, abstraction, encapsulation)
+  - [ ] paradigm features (abstract classes, concrete classes, scope/visiblity, interfaces)
+  - [ ] model-driven design (domain models, anemic models, layered architecturs, domain language, class invariants)
+- [ ] Design Principles
+  - [ ] composition over inheritance
+  - [ ] encapsulate what varies
+  - [ ] program against abstractions
+  - [ ] hollywood principle
+  - [ ] SOLID
+  - [ ] DRY
+  - [ ] YAGNI
+- [ ] Design Patterns
+  - [ ] GoF design patterns
+  - [ ] PoSA patterns
+- [ ] Architectual Principles
+  - [ ] compontent principles
+  - [ ] policy vs detail
+  - [ ] coupling and cohesion
+  - [ ] boundaries
+- [ ] Architectual Styles
+  - [ ] messaging (event-driven, publish-subscribe)
+  - [ ] distrubuted (client-server, peer-to-peer)
+  - [ ] structural (component-based, monlithic, layered)
+- [ ] Architectual Patterns
+  - [ ] SOA
+  - [ ] CQRS
+  - [ ] Domain driven design
+  - [ ] Model-view-controller
+  - [ ] microservies
+  - [ ] blackboard pattern
+  - [ ] microkernel
+  - [ ] serverless architecture
+  - [ ] message queues/streams
+  - [ ] event sourcing
+- [ ] Enterprise Patterns
+  - [ ] DTOs
+  - [ ] Identity Maps
+  - [ ] use cases
+  - [ ] repositeries
+  - [ ] mappers
+  - [ ] transaction script
+  - [ ] commands/queries
+  - [ ] value objects
+  - [ ] domain models
+  - [ ] entities
+  - [ ] ORMs
+
+## DevOps
+
+- [ ] Language (python, go)
+- [ ] OS concepts 
+  - [ ] posix
+  - [ ] startup management (initd)
+  - [ ] service management (systemd)
+  - [ ] threads and concurrency
+  - [ ] processes
+  - [ ] sockets
+  - [ ] networking
+  - [ ] i/o management
+  - [ ] virtualization
+  - [ ] memory/storage
+  - [ ] file systems
+  - [ ] ...
+- [ ] Managing Servers
+- [ ] Operating System
+- [ ] Terminal
+- [ ] Networking, Security, Protocols
+- [ ] What is and how to setup a ... ?
+- [ ] Infustructure as Code
+- [ ] CI/CD
+- [ ] Monitoring Software and infastructure
+- [ ] Cloud Providers
+- [ ] Cloud Design Patterns
