@@ -1,3 +1,5 @@
+> notes > terminology 
+
 ### Computer Science
 
 - [computer science]()
