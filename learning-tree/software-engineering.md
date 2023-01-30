@@ -152,14 +152,55 @@
   - [ ] virtualization
   - [ ] memory/storage
   - [ ] file systems
-  - [ ] ...
 - [ ] Managing Servers
-- [ ] Operating System
+  - [ ] Admin knowledge in some OS (ubuntu, debian)
 - [ ] Terminal
+  - [ ] Bash scripting
+  - [ ] vim/nano/powershell/emacs
+  - [ ] compiling apps from the source
+  - [ ] Text manipulation tools (awk, sed, grep, sort, cut, uniq, cat, echo, fmt, tr, nl, wc)
+  - [ ] Others (strace, dtrace, systemtap, uname, dg, history, du)
+  - [ ] Terminal multiplexers (tmux)
+  - [ ] Process Monitoring (ps, top, htop, atop, lsof)
+  - [ ] System performance (nmon, isotat, sar, vmstat)
+  - [ ] Network tools (traceroute, mtr, ping, nmap, netstat, ufw/firewalld, tcpdump, iptables, nftables, dig, scp)
 - [ ] Networking, Security, Protocols
+  - [ ] HTTP
+  - [ ] HTTPS
+  - [ ] FTP/SFTP
+  - [ ] SSL/TLS
+  - [ ] SSH
+  - [ ] Port Forwarding
+  - [ ] DNS
+  - [ ] OSI Model
+  - [ ] White/grey listing
+  - [ ] emails (SMTP)
 - [ ] What is and how to setup a ... ?
+  - [ ] web server (nginx)
+  - [ ] Reverse proxy
+  - [ ] forward proxy
+  - [ ] firewall
+  - [ ] caching server
+  - [ ] load balancer
 - [ ] Infustructure as Code
-- [ ] CI/CD
+  - [ ] Containers (docker)
+  - [ ] Container Orchestration (kuberneetes)
+  - [ ] GitOps (ArgoCD)
+  - [ ] Service Mesh (Istio or Consul)
+  - [ ] Secret Management (Vault)
+  - [ ] Configuration Management (Ansible)
+  - [ ] Infastructure Provisioning (Terraform)
+- [ ] CI/CD (Gitlab or Jenkins or Github Actions or Circle CI)
 - [ ] Monitoring Software and infastructure
+  - [ ] Infustrcuture monitoring (prometheus or grafana)
+  - [ ] Application monitoring (Jaeger or New Relic)
+  - [ ] Logs Management (Elastic Stack)
 - [ ] Cloud Providers
+  - [ ] Linode
+  - [ ] Digital Ocean
+  - [ ] AWS
 - [ ] Cloud Design Patterns
+  - [ ] Availability
+  - [ ] Data Management
+  - [ ] Design and Implementation
+  - [ ] Management and Monitoring
