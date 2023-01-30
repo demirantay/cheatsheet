@@ -1,10 +1,10 @@
-> notes > terminology 
+> 🔊 notes > terminology 
 
 ### Computer Science
 
 - [computer science]()
 - [backend]()
 
-### Digital Marketing
+### Marketing
 
 - [digital marketing]()
