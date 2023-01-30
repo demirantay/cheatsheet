@@ -2,10 +2,10 @@
 
 INDEX
 
-- [⚡️ Cheatsheets](./cheatsheets/readme.md)
-- [📓 Practical Notes](./practical-notes/readme.md)
-- [🧪 Feynman](./feynman/readme.md)
-- [🚜 Project-Feedback](./project-feedback/readme.md)
-- [🪃 Spaced Repetition](./spaced-repetition/readme.md)
-- [🗺. Learning Trees](./learning-tree/readme.md)
-- [🔊 Terminology](./terminology/readme.md)
+- [⚡️ Cheatsheets](./cheatsheets/)
+- [📓 Practical Notes](./practical-notes/)
+- [🧪 Feynman](./feynman/)
+- [🚜 Project-Feedback](./project-feedback/)
+- [🪃 Spaced Repetition](./spaced-repetition/)
+- [🗺. Learning Trees](./learning-tree/)
+- [🔊 Terminology](./terminology/)
