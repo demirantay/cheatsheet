@@ -31,6 +31,7 @@
   - [bulma](./frontend/bulma.md)
   - [bem](./frontend/bem.md)
   - [scss](./frontend/scss.md)
+  - [tailwindcss](./frontend/tailwindcss.md)
 - JavaScript
   - [dom api](./frontend/dom.md)
   - [ajax](./frontend/ajax.md)
@@ -50,9 +51,6 @@
   - [unittest](./backend/unittest.md)
 - Javascript
   - [node.js](./backend/nodejs.md)
-  - nest.js
-  - express
-  - nodemon
 - Databases
   - [sql](./backend/sql.md)
   - [postgresql](./backend/postgresql.md)
