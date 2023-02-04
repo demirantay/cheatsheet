@@ -62,6 +62,12 @@ __CDN:__
   [view fully on the documentation](https://tailwindcss.com/docs/hover-focus-and-other-states)
 
 - `Responsive Design`
+  There are five breakpoints by default, inspired by common device resolutions:
+  - 1 - `sm` ->	640px -> @media (min-width: 640px) { ... }
+  - 2 -
+  - 3 -
+  - 4 -
+  - 5 -
 
 - `Dark Mode`
 
