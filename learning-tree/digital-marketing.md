@@ -1,6 +1,13 @@
 # Digital Marketing
 
-`Method` -> Reading -> Feynman Note -> Practical Note -> Small Project -> Big Project
+## For later catergorisation
+- https://lookingformarketing.com/books?utm_source=r_marketing&utm_medium=new_sidebar
+- https://lookingformarketing.com/definitions?utm_source=r_marketing&utm_medium=new_sidebar
+- https://www.google.com/search?q=marketing+branches&rlz=1C5CHFA_enTR1016TR1016&oq=marketing+branches&aqs=chrome.0.0i512j0i22i30l3j0i15i22i30j0i22i30l5.2715j0j1&sourceid=chrome&ie=UTF-8
+- https://www.indeed.com/career-advice/career-development/marketing-specialization
+- https://www.reddit.com/r/marketing/comments/fly4rb/how_to_learn_digital_marketing_99_resources_and_8/
+- https://www.udemy.com/home/my-courses/learning/
+
 
 ## Reading
 
