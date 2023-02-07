@@ -5,8 +5,8 @@
 ## Backend
 
 - [ ] Language (python, go, java, ruby)
-- [ ] Version control system (git)
-- [ ] Repo hosting services (github, bitbucket)
+- [x] Version control system (git)
+- [x] Repo hosting services (github, bitbucket)
 - [ ] Web frameworks
 - [ ] Relational Databases (postgresql, mysql)
 - [ ] NoSQL Databases
