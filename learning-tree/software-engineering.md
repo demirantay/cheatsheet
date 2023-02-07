@@ -4,7 +4,7 @@
 
 ## Backend
 
-- [ ] Language (python, go, java, ruby)
+- [x] Language (python, go, java, ruby)
 - [x] Version control system (git)
 - [x] Repo hosting services (github, bitbucket)
 - [ ] Web frameworks
