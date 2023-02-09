@@ -2,9 +2,9 @@
 
 ### Computer Science
 
-- [computer science]()
-- [backend]()
+- [computer science](./computer-science.md)
+- [backend](./backend.md)
 
 ### Marketing
 
-- [digital marketing]()
+- [digital marketing](./digital-marketing.md)
