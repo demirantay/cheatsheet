@@ -2,7 +2,57 @@
 
 Table of Contents
 - [A.I.D.A](#aida)
-- [...]()
+- [Account Based Marketing](#account-based-marketing-abm)
+- [Buyer (User) Persona](#buyer-user-persona)
+- [Churn](#churn)
+- [ClickThrough Rate (CTR)](#clickthrough-rate-ctr)
+- [Closed-Loop Marketing](#closed-loop-marketing)
+- [Comparative Advertising](#comparative-advertising)
+- [Content Management System (CMS)](#content-management-system-cms)
+- [Conversion Path](#conversion-path)
+- [Conversion Rate](#conversion-rate)
+- [Conversion Rate Optimization (CRO)](#conversion-rate-optimization-cro)
+- [Core Web Vitals](#core-web-vitals)
+- [Corporate Identity](#corporate-identity)
+- [Cost Per Acquisition (CPA)](#cost-per-acquisition-cpa)
+- [Cost Per Click (CPC)](#cost-per-click-cpc)
+- [Cost Per Lead (CPL)](#cost-per-lead-cpl)
+- [Cost Per Mile (CPM)](#cost-per-mile-cpm)
+- [Cost-Based Pricing](#cost-based-pricing)
+- [Customer Acquisition Cost (CAC)](#customer-acquisition-cost-cac)
+- [Customer Loyalty](#customer-loyalty)
+- [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
+- [Demographics](#demographics)
+- [Digital Marketing (Online Marketing)](#digital-marketing-online-marketing)
+- [Direct Competition](#direct-competition)
+- [Direct Mail](#direct-mail)
+- [Direct Marketing](#direct-marketing)
+- [Engagement Rate](#engagement-rate)
+- [Google Analytics 4 (GA4)](#google-analytics-4-ga4)
+- [Ideal Customer Profile (ICP)](#ideal-customer-profile-icp)
+- [Inbound Marketing](#inbound-marketing)
+- [Key Performance Indicator (KPI)](#key-performance-indicator-kpi)
+- [Key Results Areas (KRAs)](#key-results-areas-kras)
+- [Lead](#lead)
+- [Lead Generation](#lead-generation)
+- [Lead Nurturing](#lead-nurturing)
+- [Lead Qualification](#lead-qualification)
+- [Lifetime Customer Value (LTV)](#lifetime-customer-value-ltv)
+- [Long-Tail Keyword](#long-tail-keyword)
+- [Marketing Plan](#marketing-plan)
+- [Marketing Qualified Lead (MQL)](#marketing-qualified-lead-mql)
+- [Monthly Recurring Revenue (MRR)](#monthly-recurring-revenue-mrr)
+- [Pay Per Click (PPC)](#pay-per-click-ppc)
+- [Public Relations (PR)](#public-relations-pr)
+- [Return on Ad Spend (ROAS)](#return-on-ad-spend-roas)
+- [Return On Investment (ROI)](#return-on-investment-roi)
+- [S.W.O.T. Analysis](#swot-analysis)
+- [Search Engine Optimization (SEO)](#search-engine-optimization-seo)
+- [Search Engine Results Page (SERP)](#search-engine-results-page-serp)
+- [Serviced Available Market (SAM)](#serviced-available-market-sam)
+- [Share of Market (SOM)](#share-of-market-som)
+- [Total Addressable Market (TAM)](#total-addressable-market-tam)
+- [Unique Value Proposition (UVP)](#unique-value-proposition-uvp)
 
 ## A.I.D.A
 
@@ -521,7 +571,7 @@ In addition, TAM can also be used to evaluate the potential competition in a mar
 
 By understanding TAM, companies can make informed decisions about where to focus their resources and how to grow their business. Whether you're a seasoned business professional or just starting out, understanding TAM is a must for success in today's fast-paced business world.
 
-## Unique Value Proposition (UVP) or Unique Selling Proposition
+## Unique Value Proposition (UVP)
 
 A unique value proposition (UVP) or unique selling proposition (USP) is a statement that summarizes the unique benefits or advantages that a company's product or service offers to its customers. It is a key component of a company's branding and marketing strategy, and is used to differentiate the company from its competitors.
 
