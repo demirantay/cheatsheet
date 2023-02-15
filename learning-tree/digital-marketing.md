@@ -15,8 +15,7 @@
   - [ ] Digital Marketing for Dummies
 - [ ] Master: SEO/SEM
   - [ ] ...
-- [ ] Master: 
-Marketing
+- [ ] Master: Content Marketing
   - [ ] ...
 - [ ] Master: PPC Marketing
   - [ ] ...
