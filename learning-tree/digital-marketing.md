@@ -2,30 +2,44 @@
 
 ## Learning Roadmap
 
-- [ ] Understand what is Digital Marketing (basic understanding)
-  - [ ] SEO/SEM
-  - [ ] Content Marketing
-  - [ ] PPC Marketing
-  - [ ] Social Media Marketing
-  - [ ] Email Marketing
-  - [ ] Affiliate marketing
-  - [ ] Marketing Analytics
-- [ ] Get Your Basics Right
-  - [ ] Google's online course 'Fundamentals of Digital marketing'
-  - [ ] Digital Marketing for Dummies
-- [ ] Master: SEO/SEM
+> Master Areas:
+> - SEO/SEM
+> - Content Marketing
+> - PPC Marketing
+> - Social Media Marketing
+> - Email Marketing
+> - Affiliate Marketing
+> - Marketing Analytics
+
+- [ ] Basic Books
+  - [ ] Read: Dummies - Digital Marketing - All in One
+  - [ ] Read: Dummies - Search Engine Optimization
+  - [ ] Read: Dummies - Social Media Marketing
+  - [ ] Read: Dummies - Instagram For Business
+  - [ ] Read: Dummies - Growth Hacking For Dummies
+  - [ ] Read: Dummies - Affiliate Marketing
+- [ ] SEO/SEM
+  - [ ] One most star udemy course
+  - [ ] SEO fundementals (introduction to seo, keyword research, competition analysis, content optimization, technical optimization, link building)
+  - [ ] Execute a SEO Process (developing a seo audit, establishing a seo strategy, setting seo goals, measuring seo, reporting seo, seo process management)
   - [ ] ...
-- [ ] Master: Content Marketing
+- [ ] PPC Marketing
+  - [ ] One most star udemy course
   - [ ] ...
-- [ ] Master: PPC Marketing
+- [ ] Social Media Marketing
+  - [ ] One most star udemy course
   - [ ] ...
-- [ ] Master: Social Media Marketing
+- [ ] Content Marketing
+  - [ ] One most star udemy course
+   - [ ] ...
+- [ ] Email Marketing
+  - [ ] One most star udemy course
   - [ ] ...
-- [ ] Master: Email Marketing
+- [ ] Affiliate Marketing
+  - [ ] One most star udemy course
   - [ ] ...
-- [ ] Master: Affiliate Marketing
-  - [ ] ...
-- [ ] Master: Marketing Analytics
+- [ ] Marketing Analytics
+  - [ ] One most star udemy course
   - [ ] ...
 
 
@@ -78,3 +92,9 @@ Digital
 - [ ] 80/20 sales and marketing: the guide the working less ..
 - [ ] Selling the invisible: A field guide to modern marketing
 - [ ] Zero to One: Notes on Startups
+
+---
+
+Learning Resources:
+
+SEO: https://learningseo.io/
