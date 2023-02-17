@@ -1,7 +1,5 @@
 # Digital Marketing
 
-## Learning Roadmap
-
 > Master Areas:
 > - SEO/SEM
 > - Content Marketing
@@ -10,6 +8,8 @@
 > - Email Marketing
 > - Affiliate Marketing
 > - Marketing Analytics
+
+## Learning Roadmap
 
 - [ ] Basic Books
   - [ ] Read: Dummies - Digital Marketing - All in One
@@ -22,11 +22,39 @@
   - [ ] One most star udemy course
   - [ ] SEO fundementals (introduction to seo, keyword research, competition analysis, content optimization, technical optimization, link building)
   - [ ] Execute a SEO Process (developing a seo audit, establishing a seo strategy, setting seo goals, measuring seo, reporting seo, seo process management)
-  - [ ] ...
-- [ ] PPC Marketing
+  - [ ] SEO CMS Guidelines (wordpress, wix, shopify, magneto, squarespace, weblofw -- guidelines)
+  - [ ] Deepen SEO - Technical (javascript seo, internal linking, logfile analysis for seo, crawl budget optimization, mobile optimization, web speed optimization, edge seo, xml sitemaps optimization, robots.txt optimization, paginations optimization)
+  - [ ] Deepen SEO - Content (developing topic clusters, keyword mapping, E-A-T, keyword cannabilization analysis, image optimization, video optimization, structured data, content pruning)
+  - [ ] Deepen SEO - Backlink (backlink analysis, outreach for link building, disavowing backlinks, digital PR and link building, broken link building)
+  - [ ] Deepen SEO - Management (seo forecasting, calculate seo roi, show seo value to non-seo's, budgeting seo, seo myths, building an seo team, seo product management, comminucation with seo stakeholders, creating seo contracts, seo job interviews)
+  - [ ] Deepen SEO - Opportunities (serp features optimization, seo testing, web stories, google discover, knowledge panel optimization)
+  - [ ] Deepen SEO - Scenarios (ranking drop analysis, seo for web migrations, seo for web redesigns, seo for new web launch, google core updates recovery, dealing with google penalties, removing urls from google, optimizing product pages, optimizing product pages, optimizing faceted navigation, detect and protect from negative seo)
+  - [ ] Specialize SEO - International seo
+  - [ ] Specialize SEO - E-commerce seo
+  - [ ] Specialize SEO - Local seo
+  - [ ] Specialize SEO - Enterprise seo
+  - [ ] Specialize SEO - News seo
+  - [ ] Specialize SEO - SaaS seo
+  - [ ] Specialize SEO - Travel seo
+  - [ ] Specialize SEO - Small Business seo
+  - [ ] Automating Tasks - Python for seo
+  - [ ] Automating Tasks - BigQuery and SQL for seo
+  - [ ] Automating Tasks - R for seo
+  - [ ] Automating Tasks - App Scripts for seo
+  - [ ] Automating Tasks - JS for seo
+  - [ ] Automating Tasks - Regex for seo
+  - [ ] Automating Tasks - ChatGPT for seo
+  - [ ] Non-google SEO - Bing SEO Guidelines
+  - [ ] Non-google SEO - Yandex SEO Guidelines
+  - [ ] Non-google SEO - Baidu SEO Guidelines
+  - [ ] Non-google SEO - Naver SEO Guidelines
+  - [ ] Non-google SEO - Amazon SEO Guidelines
+  - [ ] Non-google SEO - Youtube SEO Guidelines
+  - [ ] Free Tools - (keyword research tools, one-page seo tools, link building tools, monitoring and ranking tracking tools, seo reporting tools, web speed optimization tools, structured data tools, mobile seo tools, local seo tools, international seo tools, seo audit templates, javascript seo tools, forecasting tools, wordpress tools, google search console guidelines)
+- [ ] Social Media Marketing
   - [ ] One most star udemy course
   - [ ] ...
-- [ ] Social Media Marketing
+- [ ] PPC Marketing
   - [ ] One most star udemy course
   - [ ] ...
 - [ ] Content Marketing
