@@ -6,6 +6,6 @@
 - [Software Engineering](./software-engineering.md)
 - [Languages](./languages.md)
 
-### Marketing
+### Language Learning
 
-- [Digital Marketing](./digital-marketing.md)
+- [Italian](./italian.md)
