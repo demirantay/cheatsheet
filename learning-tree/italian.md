@@ -8,9 +8,16 @@
   - [ ] Project: Try to write a 500 word small story. (Get Feedback)
   - [ ] Feynman: Grammar Rules
 - [ ] Reading
+  - [ ] Harry Potter Series
+  - [ ] Narnia Series
+  - [ ] Rangers Apprentice Series
+  - [ ] Italian Literature books write down below ...
+  - [ ] Project: ... (a single c1 book to aim to udnerstand without dictionary and 3 words per page)
 - [ ] Listening
   - [ ] ...
 - [ ] Writing
   - [ ] ...
 - [ ] Speaking
   - [ ] ...
+  
+  
