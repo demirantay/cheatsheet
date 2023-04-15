@@ -3,5 +3,6 @@
 
 ### Computer Science 
 
-- [Software Engineering](./software-engineering.md)
+- [Sanat Roadmap](./sanat-roadmap.md)
+- [Zanaat Roadmap](./zanaat-roadmap.md)
 - [Programming Languages](./programming-languages.md)
