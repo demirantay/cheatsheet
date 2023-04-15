@@ -5,7 +5,3 @@
 
 - [Software Engineering](./software-engineering.md)
 - [Languages](./languages.md)
-
-### Language Learning
-
-- [Italian](./italian.md)
