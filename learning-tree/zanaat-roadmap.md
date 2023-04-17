@@ -155,3 +155,72 @@
 ---
 
 ## Software Architect
+
+- [ ] Basics
+  - [ ] What is software architecture
+  - [ ] What is a software architect
+  - [ ] Levels of architecture  (application arch, solution arch, enterprise arch)
+- [ ] Responsibilities
+  - [ ] consult coach other developers
+  - [ ] collaborate with others
+  - [ ] enforcing standarts
+  - [ ] documentation
+  - [ ] requirements ellicitation
+  - [ ] design and architecture decisions
+  - [ ] tech decisions
+- [ ] Important Skills to Learn
+  - [ ] Documentation
+  - [ ] simplifiying things
+  - [ ] decision making
+  - [ ] design and architecture
+  - [ ] communication
+  - [ ] estimate and evaluate
+  - [ ] balance
+  - [ ] consult and coach
+  - [ ] marketing skills
+- [ ] Patterns and Design Principles
+  - [ ] OOP, MVC, MVP, MVVM
+  - [ ] Actors
+  - [ ] SOLID 
+  - [ ] Domain Driven Design
+  - [ ] OOP
+  - [ ] CQRS, Eventual Consistency
+  - [ ] ACID, CAP Theorem
+  - [ ] Test Driven Development
+- [ ] Tools
+  - [ ] GIT, Slack, Trello, Atlassian Tools
+- [ ] Architectures
+  - [ ] Serverless
+  - [ ] Microservices
+  - [ ] Client/Server
+  - [ ] Layered
+  - [ ] Distrubuted Systems
+  - [ ] Service Oriented 
+- [ ] Security 
+  - [ ] Hashing Algorithms
+  - [ ] PKI
+  - [ ] OWASP
+  - [ ] Auth Strategies
+- [ ] Working with Data
+  - [ ] Analytics (apache spark, hadoop, datawarehouse principles)
+  - [ ] Hadoop, spark, mapreduce
+  - [ ] ETL, datawarehouses
+  - [ ] SQL Databases
+  - [ ] NOsql dbs
+- [ ] APIs and Integrations
+  - [ ] GRPC
+  - [ ] ESB, SOAP
+  - [ ] GraphQL
+  - [ ] REST
+  - [ ] BPM, BPEL
+  - [ ] Messaging Queues
+- [ ] Web, Mobile
+  - [ ] Reactive funcitonal programming
+  - [ ] reach, vue, angular
+  - [ ] SPA, SSR, SSG
+  - [ ] PWA
+  - [ ] Microfrontends
+  - [ ] W3C and WHATWG standarts
+- [ ] Frameworks
+  - [ ] ...
+ 
