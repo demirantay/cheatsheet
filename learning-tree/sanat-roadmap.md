@@ -1,6 +1,6 @@
 # Sanat
 
-> Computer Science > Design and Architecture > 1 Area of Expertise
+> Computer Science > Design and Architecture > System Design > 1 Area of Expertise
 
 ## Computer Science 
 
@@ -193,6 +193,85 @@
   - [ ] domain models
   - [ ] entities
   - [ ] ORMs
+
+---
+
+## System Design
+
+- [ ] Intro
+  - [ ] What is system design
+  - [ ] How to approach system design
+- [ ] Performance vs Scalability
+- [ ] Latency vs Throughput
+- [ ] Availablity vs Consistency (CAP theorem)
+  - [ ] AP - Availability + Partition Tolerance
+  - [ ] CP - Consistency  + Partition Tolerence
+- [ ] Consistency Patterns
+  - [ ] Weak consistency
+  - [ ] Eventual consistency
+  - [ ] Strong consistency
+- [ ] Availability Patterns
+  - [ ] Availability in numbers
+  - [ ] Fail Over (active-passive, active-active)
+  - [ ] Replication (master-slave, master-master)
+- [ ] Background Jobs
+  - [ ] Event Driven
+  - [ ] Schedule Driven
+  - [ ] Returning - results
+- [ ] Domain Name systems
+- [ ] Content Delivery Networks
+  - [ ] Push CDN
+  - [ ] Pull CDN
+- [ ] Load Balancers 
+  - [ ] LB vs Rverse Proxy
+  - [ ] Load Balancing Algorithms
+  - [ ] Layer 7 Load Balancing
+  - [ ] Layer-4 Load Balancing
+  - [ ] Horizontal Scaling
+- [ ] Application Layer
+  - [ ] Microservices
+  - [ ] Service Discovery
+- [ ] Databases
+  - [ ] SQL vs NoSQL
+  - [ ] RDBMS (replication, sharding, federation, denormalization, sql tuning)
+  - [ ] NoSQL (keyvalue, document, wide column, graph db)
+- [ ] Caching
+  - [ ] Strategies (refresh ahead, write-behind, write-thorugh, cache aside)
+- [ ] Asynchronism
+  - [ ] Back Pressure
+  - [ ] Task Queues
+  - [ ] Message Queues
+- [ ] Idompotent Operations
+- [ ] Comminucation
+  - [ ] HTTP, TCP, UDP, RPC, REST, gRPC, GraphQL
+- [ ] Performance Antipatterns
+  - [ ] Busy Database
+  - [ ] Busy Frontend
+  - [ ] Chatty I/O
+  - [ ] Extaneous Fetching
+  - [ ] Improper Instantation
+  - [ ] Monolithic Persistence
+  - [ ] No Caching
+  - [ ] Noisy Neighbor
+  - [ ] Retry Storm
+  - [ ] Synchronous I/O
+- [ ] Monitoring
+  - [ ] Health Monitoring
+  - [ ] availablity monitoring
+  - [ ] performance monitoring
+  - [ ] security monitoring
+  - [ ] usage monitoring
+  - [ ] insturmentation
+  - [ ] visualizataion and alerts
+- [ ] Cloud design patterns (dont master have an overview)
+  - [ ] Messaging 
+  - [ ] Data Management
+  - [ ] Design and Implementation
+  - [ ] Reailability:  Availability
+  - [ ] Reailability:  High Availaiblity
+  - [ ] Reailability:  Resillency
+  - [ ] Reailability:  Security
+ 
 
 ---
 
