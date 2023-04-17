@@ -151,11 +151,6 @@
   - [ ] Data Management
   - [ ] Design and Implementation
   - [ ] Management and Monitoring
-  
----
-
-## System Design
-
 
 ---
 
