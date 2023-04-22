@@ -1,3 +1,223 @@
 # Programming Learning Roadmap
 
-...
+> Learning Method: Cheatsheet > Feynman Notes > Project
+
+Table of Contents:
+- Computer Science
+- Backend
+- ... (area of expertise)
+
+## Computer Science
+
+- [ ] Learn C and Go
+- [ ] Data Structures
+  - [ ] Array
+  - [ ] Linked List
+  - [ ] Queue
+  - [ ] Hash Table
+  - [ ] Tree (binary, binary search, full binary, complete binary, balanced, unbalanced, )
+  - [ ] Graph (directed, undirected, adjacency matrix, spanning tree, adjacency List
+  - [ ] Heap
+- [ ] Asymptotic Notation
+  - [ ] Big O Notation
+  - [ ] Big Theta Notaion
+  - [ ] Big Omega Notation
+  - [ ] Common Runtimes (constant, logarithmic, linear, polynomial, exponential, factorial)
+- [ ] Common Algorithms
+  - [ ] Sorting (bubble, selection, insertion, heap, quick, merge)
+  - [ ] Searching (binary, linear)
+  - [ ] Recursion (tail, non-tail)
+  - [ ] Tree (pre-order traversal, in-order traversal, post order traversal, breadth first search, depth first search)
+  - [ ] Graph (breadth first search, depth first search, bellman-ford, djisktras, A* algorithm)
+  - [ ] Greedy (djisktras, huffman coding, kruksals, ford-fulkerson, prims)
+  - [ ] Back tracking (finding hamiltonian paths, solving n queen, maze solving, the knights tour, rabin karp)
+  - [ ] Caching (LRU chche, LFU cache, MFU cache)
+- [ ] String Search & Manipulations
+  - [ ] Search pattern in text
+  - [ ] Suffix Arrays
+  - [ ] Substring search (brute force, knuth-morris, boyer-moore, rabin-karp)
+- [ ] Bitewise Operators
+- [ ] Floating Point Numbers
+- [ ] Endianes
+  - [ ] Big Endian
+  - [ ] Little Endian
+- [ ] Character Encodings
+  - [ ] Unicode
+  - [ ] ASCII
+- [ ] Common UML Diagrams
+  - [ ] Class Diagrams
+  - [ ] Usecase Diagrams
+  - [ ] Activity Diagrams
+  - [ ] Statemachine Diagrams
+  - [ ] Sequence Diagrams
+- [ ] Design Patterns 
+  - [ ] GoF design patterns
+  - [ ] Architectual patterns
+  - [ ] Dependency injection
+  - [ ] Null object pattern
+  - [ ] Type object pattern 
+- [ ] Basic Math
+  - [ ] Probability
+  - [ ] Combinatorics
+- [ ] Complexity Classes
+  - [ ] P
+  - [ ] NP
+  - [ ] Co-NP
+  - [ ] NP-Hard
+  - [ ] Np Complete (traveling salesman, knapscak, longest path)
+  - [ ] P = NP
+- [ ] Tries
+- [ ] Balanced Search Trees
+  - [ ] AVL Trees
+  - [ ] Red / Black Trees
+  - [ ] 2-3 Search Trees
+  - [ ] 2-3-4 Trees
+  - [ ] K-ary / M-ary Tree
+  - [ ] B-Tree
+- [ ] System Design
+  - [ ] Horizontal vs Vertical Scaling
+  - [ ] Load Balancing
+  - [ ] Clustering
+  - [ ] Caching
+  - [ ] CDN
+  - [ ] Proxy
+  - [ ] CAP Theorem
+  - [ ] Queues
+  - [ ] Architectual Styles
+  - [ ] REST
+  - [ ] GraphQL
+  - [ ] gRPC
+  - [ ] Cloud Design Patterns
+  - [ ] Long Polling
+  - [ ] Short Polling
+  - [ ] Web Sockets
+  - [ ] SSE
+- [ ] Databases 
+  - [ ] SQL and NoSQL databases
+  - [ ] Normalization / Deonormalization
+  - [ ] Entity-relationship model
+  - [ ] DDL
+  - [ ] DML
+  - [ ] DQL
+  - [ ] DCL
+  - [ ] Locking 
+  - [ ] Transactions
+  - [ ] AICD model
+  - [ ] BASE model
+  - [ ] CAP Theorem
+  - [ ] PACELC
+  - [ ] Indexes
+  - [ ] Views
+  - [ ] Transactions
+  - [ ] Stored Procedures
+  - [ ] Database Federation
+  - [ ] Replication
+  - [ ] Sharding
+- [ ] Networking
+  - [ ] OSI model
+  - [ ] TCP/IP model
+  - [ ] DNS
+  - [ ] HTTP
+  - [ ] HTTPS/TLS
+  - [ ] Sockets
+- [ ] Security
+  - [ ] Public key cryptography
+  - [ ] hashing, encryption, encoding
+  - [ ] hashing algorithms
+  - [ ] owasp top 10
+- [ ] How Computers Work
+  - [ ] How CPU executes programs?
+  - [ ] How computers calculate
+  - [ ] Registers and RAM
+  - [ ] Instructions and Programs
+  - [ ] CPU Cache
+- [ ] Processes and Threads
+  - [ ] Process Forking
+  - [ ] Memory Management
+  - [ ] Lock/mutex/semaphore
+  - [ ] concurrency in multiple cores
+  - [ ] scheduling algorithms
+  - [ ] cpu interrutps
+  - [ ] processes vs threads
+- [ ] K - D Trees
+- [ ] Skip Lists
+
+## Backend 
+
+- [x] Language (python, go, java, ruby)
+- [x] Version control system (git)
+- [x] Repo hosting services (github, bitbucket)
+- [ ] Web frameworks
+- [ ] Relational Databases (postgresql, mysql)
+- [ ] NoSQL Databases
+  - [ ] Document DB (mongodb)
+  - [ ] Time Series (InfluxDB)
+  - [ ] Realtime (firebase)
+  - [ ] ColumnDB (cassandra)
+  - [ ] Key-value (redis)
+  - [ ] Graph DB (Neo4j)
+- [ ] More about databases
+  - [ ] ORMs
+  - [ ] ACID
+  - [ ] Transactions
+  - [ ] N+1 Problem
+  - [ ] Normalization
+  - [ ] Faliure Modes
+  - [ ] Profiling Performance
+- [ ] Scaling Databases
+  - [ ] Database Indexes
+  - [ ] Data Replication
+  - [ ] Sharding Strategies
+  - [ ] CAP Theorem
+- [ ] API's
+  - [ ] REST
+  - [ ] JSON APIs
+  - [ ] Authentication (Oauth, Basic auth, token auth, JWT)
+  - [ ] gRPC
+- [ ] Caching
+  - [ ] Client side
+  - [ ] Server side (redis, memecached)
+  - [ ] CDN
+- [ ] Web Security 
+  - [ ] sha family
+  - [ ] scrypt
+  - [ ] bcrypt
+  - [ ] HTTPS
+  - [ ] OWASP risks
+  - [ ] CORS
+  - [ ] SSL/TLS
+  - [ ] Content security policy
+  - [ ] Server security
+- [ ] Testing
+  - [ ] Integration testing
+  - [ ] Unit testing
+  - [ ] Functional testing
+- [ ] CI/CD
+- [ ] Software Design and Architecture (in a differnt roadmap < below)
+- [ ] Design and Development Principles
+  - [ ] GOF Design patterns
+  - [ ] domain driven design
+  - [ ] test driven development
+  - [ ] CQRS
+  - [ ] event sourcing
+- [ ] Architectual patterns
+  - [ ] monolithic
+  - [ ] microservices
+  - [ ] SOA
+  - [ ] serverless
+  - [ ] service mesh
+  - [ ] twelve factor app
+- [ ] Search Engines (elastic search, solr)
+- [ ] Message Brokers (rabbitMQ)
+- [ ] Containers and Virtualization
+  - [ ] Docker
+  - [ ] Kuberneetes
+- [ ] GraphQL (apollo)
+- [ ] Web Sockets
+- [ ] Server Sent Events
+- [ ] Web Servers (nginx)
+- [ ] Building for scale
+  - [ ] Migration Strategies (graceful degradation, throttling, backpressure, loadshifting, circuit breaker)
+  - [ ] Types of scaling
+  - [ ] Observability
+  - [ ] Difference between -> insturmentation, monitoring, telemtry
