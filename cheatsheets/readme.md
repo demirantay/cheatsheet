@@ -2,6 +2,7 @@
 
 ## Languages
 
+- [C](./languages/c.md)
 - [go](./languages/go.md)
   - [basics](./languages/go.md)
 - [python](./languages/python.md)
