@@ -9,7 +9,7 @@ Table of Contents:
 
 ## Computer Science
 
-- [ ] Learn C and Go
+- [ ] Learn C
 - [ ] Data Structures
   - [ ] Array
   - [ ] Linked List
