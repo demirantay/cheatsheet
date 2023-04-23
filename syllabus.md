@@ -3,8 +3,8 @@
 > Learning Method: Cheatsheet > Feynman Notes > Project
 
 Table of Contents:
-- Computer Science
-- Backend
+- [Computer Science](#computer-science)
+- [Backend](#backend)
 - ... (area of expertise)
 
 ## Computer Science
@@ -50,6 +50,7 @@ Table of Contents:
   - [ ] Activity Diagrams
   - [ ] Statemachine Diagrams
   - [ ] Sequence Diagrams
+- [ ] ✨ Big Project
 - [ ] Design Patterns 
   - [ ] GoF design patterns
   - [ ] Architectual patterns
@@ -125,6 +126,7 @@ Table of Contents:
   - [ ] hashing, encryption, encoding
   - [ ] hashing algorithms
   - [ ] owasp top 10
+- [ ] ✨ Big Project
 - [ ] How Computers Work
   - [ ] How CPU executes programs?
   - [ ] How computers calculate
@@ -164,6 +166,7 @@ Table of Contents:
   - [ ] Normalization
   - [ ] Faliure Modes
   - [ ] Profiling Performance
+- [ ] ✨ Big Project
 - [ ] Scaling Databases
   - [ ] Database Indexes
   - [ ] Data Replication
@@ -193,6 +196,7 @@ Table of Contents:
   - [ ] Unit testing
   - [ ] Functional testing
 - [ ] CI/CD
+- [ ] ✨ Big Project
 - [ ] Software Design and Architecture (in a differnt roadmap < below)
 - [ ] Design and Development Principles
   - [ ] GOF Design patterns
@@ -212,6 +216,7 @@ Table of Contents:
 - [ ] Containers and Virtualization
   - [ ] Docker
   - [ ] Kuberneetes
+- [ ] ✨ Big Project
 - [ ] GraphQL (apollo)
 - [ ] Web Sockets
 - [ ] Server Sent Events
