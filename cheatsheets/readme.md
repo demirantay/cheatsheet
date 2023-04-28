@@ -1,29 +1,60 @@
 > ⚡️ notes > cheatsheet
 
-## Languages
+## CompSci
 
-- [C](./languages/c.md)
-- [go](./languages/go.md)
-  - [basics](./languages/go.md)
-- [python](./languages/python.md)
-  - [basics](./languages/python-basics.md)
-  - [advanced](./languages/python-advanced.md)
-  - [built-in algorithms](./languages/python-algorithms.md)
-  - [pep8](./languages/pep8.py)
-  - [pip](./languages/pip.md)
-  - [poetry](./languages/poetry.md)
-  - [python packaging](./languages/python-packaging.md)
-  - [regex](./languages/python-regex.md)
-- [javascript](./languages/js-basics.md)
-  - [basics](./languages/js-basics.md)
-  - [advanced](./languages/js-advanced.md)
-  - [graphics](./languages/graphics.md)
-- [java](./languages/java.md)
-- [php](./languages/php.md)
-- [yaml](./languages/yaml.md)
+- [Data Structures](./compsci/data-structure.md)
 
-## Frontend
+## Backend
 
+- Python 
+  - [django](./backend/django.md)
+  - [django fast-querying](./backend/django-fast-querying.md)
+  - [django-rest-api](./backend/django-rest-api.md)
+  - [unittest](./backend/unittest.md)
+- Databases
+  - [sql](./backend/sql.md)
+  - [postgresql](./backend/postgresql.md)
+  - [psycopg2](./backend/psycopg2.md)
+  - [sqlite](./backend/sqlite.md)
+  - [python-sqlite3](./backend/python-sqlite.md)
+  - [mongodb](./backend/mongodb.md)
+  - [redis](./backend/redis.md)
+- Other
+  - [postman](./backend/postman.md)
+- DevOps
+  - [git](./devops/git.md)
+  - [basic bash](./devops/basic_bash.md)
+  - [advanced bash](./devops/advanced_bash.md)
+  - [nginx](./devops/nginx.md)
+  - [vim](./devops/vim.md)
+  - [docker](./devops/docker.md)
+
+## Mastery
+
+- ...
+
+## Meta
+
+- Languages
+  - [C](./languages/c.md)
+  - [go](./languages/go.md)
+    - [basics](./languages/go.md)
+  - [python](./languages/python.md)
+    - [basics](./languages/python-basics.md)
+    - [advanced](./languages/python-advanced.md)
+    - [built-in algorithms](./languages/python-algorithms.md)
+    - [pep8](./languages/pep8.py)
+    - [pip](./languages/pip.md)
+    - [poetry](./languages/poetry.md)
+    - [python packaging](./languages/python-packaging.md)
+    - [regex](./languages/python-regex.md)
+  - [javascript](./languages/js-basics.md)
+    - [basics](./languages/js-basics.md)
+    - [advanced](./languages/js-advanced.md)
+    - [graphics](./languages/graphics.md)
+  - [java](./languages/java.md)
+  - [php](./languages/php.md)
+  - [yaml](./languages/yaml.md)
 - CSS
   - [html](./frontend/html.md)
   - [css](./frontend/css.md)  
@@ -42,38 +73,6 @@
   - [react](./frontend/react.md)
 - Other
   - [webpack](./frontend/webpack.md)
-
-## Backend
-
-- Python 
-  - [django](./backend/django.md)
-  - [django fast-querying](./backend/django-fast-querying.md)
-  - [django-rest-api](./backend/django-rest-api.md)
-  - [unittest](./backend/unittest.md)
-- Javascript
-  - [node.js](./backend/nodejs.md)
-- Databases
-  - [sql](./backend/sql.md)
-  - [postgresql](./backend/postgresql.md)
-  - [psycopg2](./backend/psycopg2.md)
-  - [sqlite](./backend/sqlite.md)
-  - [python-sqlite3](./backend/python-sqlite.md)
-  - [mongodb](./backend/mongodb.md)
-  - [redis](./backend/redis.md)
-- Other
-  - [postman](./backend/postman.md)
-
-## Devops
-
-- [git](./devops/git.md)
-- [basic bash](./devops/basic_bash.md)
-- [advanced bash](./devops/advanced_bash.md)
-- [nginx](./devops/nginx.md)
-- [vim](./devops/vim.md)
-- [docker](./devops/docker.md)
-
-## Misc
-
 - Learning
   - [empiric knowledge](./general/empiric.md)
 - General
