@@ -2,7 +2,7 @@
 
 ## CompSci
 
-- [Data Structures](./compsci/data-structure.md)
+- [Data Structures](./compsci/data-structures.md)
 
 ## Backend
 
@@ -34,6 +34,8 @@
 - ...
 
 ## Meta
+
+- [click here to view all of the meta cheatsheets](./meta-cheatsheet.md)
 
 - Languages
   - [C](./languages/c.md)
