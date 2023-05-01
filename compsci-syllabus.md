@@ -5,7 +5,7 @@
 Table of Contents:
 - [Computer Science](#computer-science)
 - [Backend](#backend)
-- ... (area of expertise)(ai, networking, OS, compilers .etc.)
+- ... (area of expertise)(choose one: programming, algorithms, computer architecture, OS, networking, databases, webdev, ai/ml, software engineering, graphics, security)
 
 ## Computer Science
 
