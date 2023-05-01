@@ -1,5 +1,7 @@
 # Money Syllabus
 
+> ADD SUB TOPICS FROM chatGPT and CREATE A TODO MAP
+
 > Cheatsheet > Feynman Notes > Project
 
 Money:
