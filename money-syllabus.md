@@ -10,14 +10,28 @@ Money:
 - Cryptocurrencies and blockchain
 
 Financial literacy
-- a
+- Budgeting
+- Saving
+- Debt management
+- Credit score
+- Investing
+- Retirement planning
+- Financial planning
 
 History of money:
 - Bartering
-- 
+- Precious metals (gold, metal)
+- Paper Money
+- Digital Money
+- Globalization
 
 Monetary policy:
-- a
+- Definition and goals
+- Tools of monetary policy
+- Historical perspective
+- International perspective
+- Economic theories
+- Current issues
 
 Investing
 - Financial literacy
@@ -28,7 +42,18 @@ Investing
 - Behavioral finance
 
 Financial Freedom
-- a
+- Financial literacy
+- Goal Setting
+- Investing
+- Passive Income
+- Entrepreneurship
+- Mindset and habits
 
 Cryptocurrencies and blockchain
-- a
+- Definition and basics
+- How it works
+- Types of cryptocurrencies
+- Cryptocurrency trading and investment
+- Cryptocurrency regulation
+- Blockchain applications beyond cryptocurrencies
+- Future developments
