@@ -1,6 +1,8 @@
 # Programming Learning Roadmap
 
-> Learning Method: Cheatsheet > Feynman Notes > Project
+> Learning Method: Feynman Notes > Cheatsheet >  > Project
+
+> Use the resources from roadmap.sh!!
 
 Table of Contents:
 - [Computer Science](#computer-science)
