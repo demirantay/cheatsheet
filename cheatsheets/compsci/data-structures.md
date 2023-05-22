@@ -5,8 +5,8 @@ Data Structures
 Table of Contents
 - [Linked List](#linked-list)
 - [Stack](#stack)
-- [ ] Queue
-- [ ] Hash Table
+- [Queue](#queue) 
+- [Hash Table](#hash-table)
 - [ ] Tree
 - [ ] Graph
 - [ ] Heap
@@ -85,4 +85,59 @@ class Stack:
 
     def size(self):
         return len(self.stack)
+```
+
+## Queue
+
+```python
+class Queue:
+    def __init__(self):
+        self.queue = []
+
+    def enqueue(self, item):
+        self.queue.append(item)
+
+    def dequeue(self):
+        if not self.is_empty():
+            return self.queue.pop(0)
+
+    def is_empty(self):
+        return len(self.queue) == 0
+
+    def size(self):
+        return len(self.queue)
+
+    def peek(self):
+        if not self.is_empty():
+            return self.queue[0]
+```
+
+## Hash Table
+
+```python
+class HashTable:
+    def __init__(self):
+        self.table = {}
+
+    def put(self, key, value):
+        self.table[key] = value
+
+    def get(self, key):
+        return self.table.get(key)
+
+    def remove(self, key):
+        if key in self.table:
+            del self.table[key]
+
+    def contains(self, key):
+        return key in self.table
+
+    def size(self):
+        return len(self.table)
+
+    def keys(self):
+        return list(self.table.keys())
+
+    def values(self):
+        return list(self.table.values())
 ```
