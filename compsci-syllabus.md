@@ -6,6 +6,7 @@
 
 Table of Contents:
 - [Computer Science](#computer-science)
+- [Full Stack](#full-stack)
 - [Backend](#backend)
 - ... (area of expertise)(choose one: programming, algorithms, computer architecture, OS, networking, databases, webdev, ai/ml, software engineering, graphics, security)
 
@@ -144,6 +145,41 @@ Table of Contents:
   - [ ] processes vs threads
 - [ ] K - D Trees
 - [ ] Skip Lists
+
+## Full-Stack
+
+- [ ] HTML
+- [ ] CSS
+- [ ] Checkpoint -- [static webpages](https://roadmap.sh/full-stack)
+- [ ] JavaSript
+- [ ] Checkpoint -- [Interactivity](https://roadmap.sh/full-stack)
+- [ ] npm
+- [ ] Checkpoint -- [External packages](https://roadmap.sh/full-stack)
+- [ ] Git
+- [ ] Github
+- [ ] Checkpoint -- [Collabarative Work](https://roadmap.sh/full-stack)
+- [ ] Tailwind
+- [ ] React
+- [ ] Checkpoint -- [Frontend Apps](https://roadmap.sh/full-stack)
+- [ ] Python
+- [ ] Checkpoint -- [CLI Apps](https://roadmap.sh/full-stack)
+- [ ] PostgreSQL
+- [ ] Checkpoint -- [Simple CRUD](https://roadmap.sh/full-stack)
+- [ ] RESTful APIs
+- [ ] JWT Auth
+- [ ] Redis
+- [ ] Checkpoint -- [Complete App](https://roadmap.sh/full-stack)
+- [ ] Linux Basics
+- [ ] Basic AWS Services (Route53, SES, EC2, VPC, S3)
+- [ ] Checkpoitn -- [Deployment](https://roadmap.sh/full-stack)
+- [ ] Monit
+- [ ] Checkpoint -- [Monitoring](https://roadmap.sh/full-stack)
+- [ ] Github Actions
+- [ ] Checkpoint -- [CI/CD](https://roadmap.sh/full-stack)
+- [ ] Ansible
+- [ ] Checkpoint -- [Automation](https://roadmap.sh/full-stack)
+- [ ] Terraform
+- [ ] Checkpoint -- [Infrastructure](https://roadmap.sh/full-stack)
 
 ## Backend 
 
