@@ -2,7 +2,7 @@
 > Cheatheets > Meta Cheatsheet
 
 - Languages
-  - [C](./misc/languages/c.md)
+  - [C](./cheatsheets/misc/languages/c.md)
   - [go](./misc/languages/go.md)
     - [basics](./misc/languages/go.md)
   - [python](./misc/languages/python.md)
