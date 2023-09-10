@@ -8,26 +8,26 @@
 
 - Python 
   - [django](./cheatsheets/backend/django.md)
-  - [django fast-querying](./backend/django-fast-querying.md)
-  - [django-rest-api](./backend/django-rest-api.md)
-  - [unittest](./backend/unittest.md)
+  - [django fast-querying](./cheatsheets/backend/django-fast-querying.md)
+  - [django-rest-api](./cheatsheets/backend/django-rest-api.md)
+  - [unittest](./cheatsheets/backend/unittest.md)
 - Databases
-  - [sql](./backend/sql.md)
-  - [postgresql](./backend/postgresql.md)
-  - [psycopg2](./backend/psycopg2.md)
-  - [sqlite](./backend/sqlite.md)
-  - [python-sqlite3](./backend/python-sqlite.md)
-  - [mongodb](./backend/mongodb.md)
-  - [redis](./backend/redis.md)
+  - [sql](./cheatsheets/backend/sql.md)
+  - [postgresql](./cheatsheets/backend/postgresql.md)
+  - [psycopg2](./cheatsheets/backend/psycopg2.md)
+  - [sqlite](./cheatsheets/backend/sqlite.md)
+  - [python-sqlite3](./cheatsheets/backend/python-sqlite.md)
+  - [mongodb](./cheatsheets/backend/mongodb.md)
+  - [redis](./cheatsheets/backend/redis.md)
 - Other
-  - [postman](./backend/postman.md)
+  - [postman](./cheatsheets/backend/postman.md)
 - DevOps
-  - [git](./devops/git.md)
-  - [basic bash](./devops/basic_bash.md)
-  - [advanced bash](./devops/advanced_bash.md)
-  - [nginx](./devops/nginx.md)
-  - [vim](./devops/vim.md)
-  - [docker](./devops/docker.md)
+  - [git](./cheatsheets/devops/git.md)
+  - [basic bash](./cheatsheets/devops/basic_bash.md)
+  - [advanced bash](./cheatsheets/devops/advanced_bash.md)
+  - [nginx](./cheatsheets/devops/nginx.md)
+  - [vim](./cheatsheets/devops/vim.md)
+  - [docker](./cheatsheets/devops/docker.md)
 
 ## Mastery
 
