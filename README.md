@@ -2,12 +2,12 @@
 
 ## CompSci
 
-- [Data Structures](./compsci/data-structures.md)
+- [Data Structures](./cheatsheets/compsci/data-structures.md)
 
 ## Full-Stack
 
 - Python 
-  - [django](./backend/django.md)
+  - [django](./cheatsheets/backend/django.md)
   - [django fast-querying](./backend/django-fast-querying.md)
   - [django-rest-api](./backend/django-rest-api.md)
   - [unittest](./backend/unittest.md)
