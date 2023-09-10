@@ -35,4 +35,4 @@
 
 ## Misc
 
-- [click here to view all of the miscellaneous cheatsheets](./misc-cheatsheet.md)
+- [click here to view all of the miscellaneous cheatsheets](./misc.md)
