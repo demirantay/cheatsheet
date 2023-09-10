@@ -1,1 +1,59 @@
 
+> Cheatheets > Meta Cheatsheet
+
+- Languages
+  - [C](./misc/languages/c.md)
+  - [go](./misc/languages/go.md)
+    - [basics](./misc/languages/go.md)
+  - [python](./misc/languages/python.md)
+    - [basics](./misc/languages/python-basics.md)
+    - [advanced](./misc/languages/python-advanced.md)
+    - [built-in algorithms](./misc/languages/python-algorithms.md)
+    - [pep8](./misc/languages/pep8.py)
+    - [pip](./misc/languages/pip.md)
+    - [poetry](./misc/languages/poetry.md)
+    - [python packaging](./misc/languages/python-packaging.md)
+    - [regex](./misc/languages/python-regex.md)
+  - [javascript](./misc/languages/js-basics.md)
+    - [basics](./misc/languages/js-basics.md)
+    - [advanced](./misc/languages/js-advanced.md)
+    - [graphics](./misc/languages/graphics.md)
+  - [java](./misc/languages/java.md)
+  - [php](./misc/languages/php.md)
+  - [yaml](./misc/languages/yaml.md)
+- CSS
+  - [html](./misc/frontend/html.md)
+  - [css](./misc/frontend/css.md)  
+  - [media queries](./misc/frontend/media-queries.md)
+  - [bootstrap](./misc/frontend/bootstrap.md)
+  - [bulma](./misc/frontend/bulma.md)
+  - [bem](./misc/frontend/bem.md)
+  - [scss](./misc/frontend/scss.md)
+  - [tailwindcss](./misc/frontend/tailwindcss.md)
+- JavaScript
+  - [dom api](./misc/frontend/dom.md)
+  - [ajax](./misc/frontend/ajax.md)
+  - [jquery](./misc/frontend/jquery.md)
+  - [data table](./misc/frontend/data-table.md)
+  - [npm](./misc/frontend/npm.md)
+  - [react](./misc/frontend/react.md)
+- Other
+  - [webpack](./misc/frontend/webpack.md)
+- Learning
+  - [empiric knowledge](./misc/general/empiric.md)
+- General
+  - [dev cycle](./misc/general/dev-cycle.md)
+  - [porject lifecycle](./misc/general/project-lifecycle.md)
+  - [academic report](./misc/general/academic-report.md)
+  - [scrum](./misc/general/scrum.md)
+  - [readme todo](./misc/general/readme-todo.md)
+  - [http status codes](./misc/general/http-status-codes.md)
+- Work
+  - [londonist](./misc/work/londonist.md)
+  - [aixplain](./misc/work/aixplain.md)
+  - [aixplain-label studio](./misc/work/aixplain-label-studio.md)
+- Business
+  - [10 principles to live by](./misc/business/engineer-10-principles.md)
+  - [make it work first than fast](./misc/business/makeit-work-right-fast.md)
+  - [ERP](./misc/business/erp.md)
+  - [engineering specializations](./misc/business/engineer-special.md)
