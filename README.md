@@ -2,7 +2,7 @@
 
 ## Feynman
 
-- [SDK](./feynman/sdk.md))
+- [SDK](./feynman/sdk.md)
 
 ## CompSci
 
