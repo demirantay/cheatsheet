@@ -1,5 +1,9 @@
 > Cheatsheets
 
+## Feynman
+
+- [SDK](./feynman/sdk.md))
+
 ## CompSci
 
 - [Data Structures](./cheatsheets/compsci/data-structures.md)
