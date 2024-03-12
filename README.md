@@ -1,14 +1,14 @@
 > Full Cheatsheets
 
-## Feynman
+### Feynman
 
 - [SDK](./feynman/sdk.md)
 
-## CMS
+### CMS
 
 - [php](#)
 
-## Web-Dev
+### Web-Dev
 
 - Python 
   - [django](./cheatsheets/backend/django.md)
@@ -33,14 +33,14 @@
   - [vim](./cheatsheets/devops/vim.md)
   - [docker](./cheatsheets/devops/docker.md)
 
-## Mobile
+### Mobile
 
 - ...
 
-## Chatgpt
+### Chatgpt
 
 - ...
 
-## Misc
+### Misc
 
 - [click here to view all of the miscellaneous cheatsheets](./misc.md)
