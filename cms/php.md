@@ -304,14 +304,74 @@ $my_other_class->myMethod();               // Prints "MyClass > MyOtherClass"
 
 ### Traits, Namespaces, Late Static Binding, Magic Constants 
 ```php
-/********************************
- * Traits
- */
+// Traits: seems confusing, do not know when I am gonna use it, will come back to it.
+
+// Namespaces: seems confusing, do not know when I am gonna use it, will come back to it.
+
+// Late Static Binding: seems confusing, do not know when I am gonna use it, will come back to it.
+
+/**********************
+*  Magic constants
+*
+*/
+
+// Get current class name. Must be used inside a class declaration.
+echo "Current class name is " . __CLASS__;
+
+// Get full path directory of a file
+echo "Current directory is " . __DIR__;
+
+// Typical usage
+require __DIR__ . '/vendor/autoload.php';
+
+// Get full path of a file
+echo "Current file path is " . __FILE__;
+
+// Get current function name
+echo "Current function name is " . __FUNCTION__;
+
+// Get current line number
+echo "Current line number is " . __LINE__;
+
+// Get the name of the current method. Only returns a value when used inside a trait or object declaration.
+echo "Current method is " . __METHOD__;
+
+// Get the name of the current namespace
+echo "Current namespace is " . __NAMESPACE__;
+
+// Get the name of the current trait. Only returns a value when used inside a trait or object declaration.
+echo "Current trait is " . __TRAIT__;
 ```
 <br>
 
 ### Eror Handling
 ```php
+/**********************
+*  Error Handling
+*
+*/
 
+// Simple error handling can be done with try catch block
+try {
+    // Do something
+} catch (Exception $e) {
+    // Handle exception
+}
+
+
+// Custom exceptions
+class MyException extends Exception {}
+
+try {
+
+    $condition = true;
+
+    if ($condition) {
+        throw new MyException('Something just happened');
+    }
+
+} catch (MyException $e) {
+    // Handle my exception
+}
 ```
 <br>
