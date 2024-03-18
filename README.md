@@ -3,6 +3,10 @@
 ### CMS
 
 - [php](./cms/php.md)
+- [wordpress-install](./cms/wp-install.md)
+- [wordpress-themes](./cms/wp-themes.md)
+- [wordpress-plugin-api](./cms/wp-plugin-api.md)
+- [wordpress-rest-api](./cms/wp-rest-api.md)
 
 ### Web-Dev 
 
