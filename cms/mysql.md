@@ -10,6 +10,7 @@ mysql -u root -p
 - Normally you should change your password and remember it.
 - But you can always rechange the password.
 - You can start/stop mysql rdbms from the system_settings in mac, there is a button
+- You may want to stop mysql rdbms before starting the process again on xampp.
 
 
 ```bash
