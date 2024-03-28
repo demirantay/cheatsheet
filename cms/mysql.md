@@ -26,9 +26,13 @@ SHOW DATABASES;
 ```
 
 Errors
-- You might get an error of mysql db server not starting in XAMPP, it is either because you havea a process running elswehere or your password in xampp configuration file is not matching with your computers mysql server downloaded from mysql clinet.
+
+You might get an error of mysql db server not starting in XAMPP, it is either because you havea a process running elswehere or your password in xampp configuration file is not matching with your computers mysql server downloaded from mysql clinet.
   ```bash
   # if you want to kill the process in bg
   ps aux | grep mysql
   sudo kill {process_id}
   ```
+
+## Mysql with Wordpress
+
