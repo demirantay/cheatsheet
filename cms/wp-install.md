@@ -45,4 +45,6 @@ What is xampp?
 
 ```
 http://localhost/phpmyadmin/
+
+http://localhost/first_wordpress/wp-admin/
 ```
