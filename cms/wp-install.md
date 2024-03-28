@@ -30,3 +30,13 @@ What is xampp?
 - 5 - Access Your Local WordPress Site: `http://localhost/yourfoldername` in browser.
 - 6 - Customize Your Development Environment (code editors, git, ...etc normal development tools)
 - 7 - Start Developing: (Themes, plugins, modify code, test features ... etc.)
+
+### WP Wizard Errors
+
+- Sometimes, wordpress wizard can have problems setting up the wp-config file but don't worry. You can easily create it yourself from the sample file in the wordpress. Here is how you make your config.php manually:
+  - In your download there should be a wp-config-sample.php.
+  - Open this is a text editor.
+  - Fill in your database connection details.
+  - Go to https://api.wordpress.org/secret-key/1.1/salt/ and get the code.
+  - Copy the above cope and paste into the sample file over the top of the existing defines
+  - Save the file as wp-config.php in the root dir of your wordpress app folder.
