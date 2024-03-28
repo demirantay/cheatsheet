@@ -40,3 +40,9 @@ What is xampp?
   - Go to https://api.wordpress.org/secret-key/1.1/salt/ and get the code.
   - Copy the above cope and paste into the sample file over the top of the existing defines
   - Save the file as wp-config.php in the root dir of your wordpress app folder.
+ 
+
+
+```
+http://localhost/phpmyadmin/
+```
