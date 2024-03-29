@@ -42,7 +42,7 @@ What is xampp?
   - Save the file as wp-config.php in the root dir of your wordpress app folder.
  
 
-
+- Error About MYSQL (you can have errors while creating a database from the mysql-cli because you can have two mysql's downloaded to your machine. One for xampp one for mysql-core. You can create and manage your xampp databases from `/phpmyadmin` it is way easier.
 ```
 http://localhost/phpmyadmin/
 
