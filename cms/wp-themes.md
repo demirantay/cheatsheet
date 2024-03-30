@@ -44,3 +44,57 @@
     // For example, to display the post title, you would use:
     <h2><?php the_title(); ?></h2>
     ```
+
+## Folder Structure
+
+> You actually do not need anything else other than style.css, functions.php, index.php but still it is in your best interest to follow a standard
+
+Here is a folder strucutre standart for your wordpress theme:
+```python
+your-theme-folder/
+│
+├── css/
+│   ├── style.css            # Main stylesheet
+│   └── responsive.css       # Responsive styles
+│
+├── js/
+│   ├── script.js            # JavaScript files
+│   └── vendor/              # Third-party libraries
+│
+├── images/                  # Theme images
+│
+├── fonts/                   # Theme fonts
+│
+├── template-parts/          # Reusable template parts
+│   ├── header.php          # Header template
+│   ├── footer.php          # Footer template
+│   └── content.php         # Content template
+│
+├── template-parts/          # Reusable template parts
+│   ├── header.php          # Header template
+│   ├── footer.php          # Footer template
+│   └── content.php         # Content template
+│
+├── inc/                     # PHP includes
+│   ├── theme-setup.php      # Theme setup functions
+│   ├── customizer.php       # Theme customizer options
+│   └── widgets.php          # Custom widgets
+│
+├── languages/               # Translation files
+│
+├── page-templates/          # Custom page templates
+│
+├── 404.php                  # 404 page template
+├── functions.php            # Theme functions
+├── index.php                # Main template file
+├── single.php               # Single post template
+├── page.php                 # Single page template
+├── archive.php              # Archive template
+├── search.php               # Search results template
+├── category.php             # Category archive template
+├── tag.php                  # Tag archive template
+│
+├── style.css                # Theme metadata
+└── screenshot.png           # Theme screenshot
+```
+
