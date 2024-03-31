@@ -14,13 +14,14 @@
   - Third-party Marketplaces: There are also many third-party marketplaces where you can find both free and premium themes. Popular ones include ThemeForest, Elegant Themes, and StudioPress.
   - Installing a Theme: Once you've found a theme you like, you can install it directly from your WordPress dashboard. Go to "Appearance" -> "Themes" -> "Add New", then search for the theme by name or upload the theme's ZIP file directly to your Wordpress folder in "wp-content/themes".
 
-## Custom Theme Dev
+## Custom Theme
 
 > When you are developing a custom theme it is best to first create a static-responsive design with just html-css-js and than convert it into a wordpress theme.
 
-- 1 - Set Up Your Development Environment: (xampp, ..etc you already have these from previous cheatsheets)
-- 2 - Create a New Theme Directory: Navigate to the "wp-content/themes" directory in your WordPress installation and create a new folder for your custom theme. Choose a name for your theme (e.g., "custom-theme").
-- 3 - Create a Stylesheet (style.css): (Inside your theme folder, create a file named style.css. This file is essential and must contain the following comment block at the top:)
+Here is a step by step way to convert your static site to a wordpress theme:
+- 1 - Set Up a Local WordPress Environment: Install WordPress on your local machine using software like XAMPP, MAMP, or a local development tool like Local by Flywheel. This allows you to work on your theme without affecting your live site.
+- 2 - Create a New Theme Directory: Inside the `wp-content/themes` directory of your WordPress installation, create a new folder for your theme. Choose a unique name for your theme directory.
+- 3 - Create Necessary Files and Directories: Inside your theme directory, create the necessary files and directories for a WordPress theme. At a minimum, you'll need `style.css`, `index.php`, `header.php`, `footer.php`, and `functions.php`.
     ```css
     /*
     Theme Name: Custom Theme
@@ -29,21 +30,18 @@
     Version: 1.0
     */
     ```
-- 4 - Create a Functions File (functions.php): In the same theme folder, create a file named functions.php. This file will contain any custom functions or PHP code needed for your theme.
-- 5 - Create Template Files: WordPress uses template files to determine how different types of content are displayed. Here are some essential template files you might want to include:
-    - index.php: The main template file.
-    - header.php: Contains the header section.
-    - footer.php: Contains the footer section.
-    - single.php: Displays single blog posts.
-    - page.php: Displays single pages.
-    - archive.php: Displays archive pages.
-    - search.php: Displays search results.
-  You can also create custom template files for specific purposes, such as home.php, category.php, tag.php, etc., based on your site's needs.
-- 6 - Add Basic HTML Structure: In each template file, add the necessary HTML structure along with WordPress template tags to dynamically display content. Template tags allow you to output data from the WordPress database, such as post titles, content, and metadata.
-    ```php
-    // For example, to display the post title, you would use:
-    <h2><?php the_title(); ?></h2>
-    ```
+- 4 - Copy Static Site Content: Copy the HTML, CSS, JavaScript, and any other assets from your static site into their respective files within your WordPress theme directory. Adjust paths and links as needed to work within the WordPress environment.
+- 5 - Break HTML into WordPress Template Parts: WordPress themes typically use template parts to separate different sections of a page. Break your HTML markup into template parts such as `header.php`, `footer.php`, `sidebar.php`, etc., to follow WordPress theme structure conventions.
+- 6 - Integrate WordPress Template Tags: Replace static content with WordPress template tags and functions to dynamically generate content. For example, `use get_header()`, `get_footer()`, `wp_head()`, `wp_footer()`, `the_title()`, `the_content()`, etc.
+- 7 - Convert CSS to WordPress Stylesheet: Replace any static URLs in your CSS with WordPress functions like `get_stylesheet_directory_uri()` or `get_template_directory_uri()` to ensure proper linking to assets.
+- 8 - Enqueue Styles and Scripts: Add CSS and JavaScript files to your theme using WordPress's `wp_enqueue_style()` and `wp_enqueue_script()` functions. This ensures proper loading and handling of styles and scripts.
+- 9 - Implement WordPress Features: If your static site includes features like navigation menus, widgets, custom post types, or custom fields, implement them using WordPress APIs and features.
+- 10 - Test Your Theme: Test your theme thoroughly to ensure everything works as expected. Check different pages, templates, and functionalities to ensure they function correctly within the WordPress environment.
+- 11 - Optimize for Performance and SEO: Ensure your theme follows best practices for performance and SEO. Optimize images, minify CSS and JavaScript, use caching plugins, and implement SEO-friendly practices like schema markup and meta tags.
+- 12 - Make Responsive: Ensure your theme is responsive and looks good on various devices and screen sizes. Use media queries and responsive design principles to adjust layout and styling as needed.
+- 13 - Prepare for Deployment: Once you're satisfied with your theme, you can deploy it to your live WordPress site. Zip the theme directory and upload it through the WordPress admin interface, or transfer the files directly to your server.
+- 14 - Final Testing and Maintenance: Test your theme again on the live site to ensure everything works as expected. Monitor for any issues and be prepared to make adjustments as needed.
+
 
 ## Folder Structure
 
