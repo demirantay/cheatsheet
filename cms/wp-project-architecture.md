@@ -5,3 +5,7 @@ WordPress Architecture →
 - 3 - Security Plugin
 - 4 - Backup Plugin
 - 5 - SEO plugin
+
+Free Page Builder Alternatives:
+- Elementor (use free version + essential addons for elementor + royal addons for elementor)
+- Beaver Builder (plugin ++ ultimate addons for Beaver builder) -- very basic
