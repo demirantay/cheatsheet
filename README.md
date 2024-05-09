@@ -8,6 +8,7 @@
 - [wordpress-themes](./cms/wp-themes.md)
 - [wordpress-plugin-api](./cms/wp-plugin-api.md)
 - [wordpress-rest-api](./cms/wp-rest-api.md)
+- [WP project architecture](./cms/wp-project-architecture.md)
 
 ### Web-Dev 
 
