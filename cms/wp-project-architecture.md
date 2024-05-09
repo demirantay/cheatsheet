@@ -1,7 +1,7 @@
-Wordpress Architecture → 
+WordPress Architecture → 
 
 - 1 - Bricks (theme) (it is like webflow page builder)
-- 2 - Security Plugin
-- 3 - Backup Plugin
-- 4 - SEO plugin
-- 5 - Analytics plugin
+- 2 - Analytics plugin
+- 3 - Security Plugin
+- 4 - Backup Plugin
+- 5 - SEO plugin
