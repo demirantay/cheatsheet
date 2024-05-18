@@ -9,6 +9,7 @@
 - [wordpress-plugin-api](./cms/wp-plugin-api.md)
 - [wordpress-rest-api](./cms/wp-rest-api.md)
 - [WP project architecture](./cms/wp-project-architecture.md)
+- [WP Deployment](./cms/wp-deployment.md)
 
 ### Web-Dev 
 
