@@ -13,7 +13,7 @@
 
 ### Web-Dev 
 
-- Soon
+- [CSS Media Queries](./webdev/media-queries.md)
 
 ### Mobile
 
