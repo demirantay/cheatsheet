@@ -14,6 +14,7 @@
 ### Web-Dev 
 
 - [CSS Media Queries](./webdev/media-queries.md)
+- [remix-icon inline](./webdev/remix-icon.md)
 
 ### Mobile
 
