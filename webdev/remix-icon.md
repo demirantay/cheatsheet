@@ -1,5 +1,5 @@
 Fix remix icons bad padding 
-```
+```css
 .nodeClass h3 i {
     padding: 0px;
     margin: 0px;
