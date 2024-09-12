@@ -31,6 +31,7 @@
 ### Feynman
 
 - [SDK](./feynman/sdk.md)
+- [CI/CD](./feynman/ci_cd.md)
 
 ### Misc
 
