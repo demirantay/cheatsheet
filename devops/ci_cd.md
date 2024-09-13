@@ -1,4 +1,4 @@
-## CI/CD Pipeline
+## CI/CD
 
 There will be two main parts:
 - `Setup Wizard` - setsup the vps and its tech stack
