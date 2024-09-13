@@ -19,7 +19,7 @@
 ### Devops
 
 - [yaml](./devops/yaml.md)
-- [CI/CD](./deovps/ci_cd.md)
+- [CI/CD](./devops/ci_cd.md)
 
 ### Mobile
 
