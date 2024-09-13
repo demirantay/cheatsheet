@@ -16,15 +16,14 @@
 - [CSS Media Queries](./webdev/media-queries.md)
 - [remix-icon inline](./webdev/remix-icon.md)
 
+### Devops
+
+- [yaml](./devops/yaml.md)
+- [CI/CD](./deovps/ci_cd.md)
+
 ### Mobile
 
-- Soon
-
-### Training
-
-- Soon
-
-### Chatgpt
+### AI
 
 - Soon
 
