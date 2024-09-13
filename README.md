@@ -20,6 +20,7 @@
 
 - [yaml](./devops/yaml.md)
 - [CI/CD](./devops/ci_cd.md)
+- [Pipeline](./devops/pipeline.md)
 
 ### Mobile
 
