@@ -23,6 +23,8 @@
 
 ### Mobile
 
+- Soon
+
 ### AI
 
 - Soon
