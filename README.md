@@ -33,7 +33,3 @@
 
 - [SDK](./feynman/sdk.md)
 - [CI/CD](./feynman/ci_cd.md)
-
-### Misc
-
-- [click here to view all of the miscellaneous cheatsheets](./misc.md)
