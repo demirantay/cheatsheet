@@ -20,3 +20,28 @@
 /* 4K Large Desktop ------------------------------------------------------- */
 @media screen and (min-width: 1441px) {}
 ```
+
+
+simpler version
+```css
+/* Mobile */
+@media (max-width: 767px) {
+  
+}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+}
+
+/* Laptop */
+@media (min-width: 1025px) and (max-width: 1440px) {
+  
+}
+
+/* 4K and larger screens */
+@media (min-width: 1441px) {
+  
+}
+
+```
