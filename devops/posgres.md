@@ -9,7 +9,8 @@
 
 <br>
 Additional Priviliges if no access
-```
+
+```bash
 GRANT CONNECT ON DATABASE app2_db TO app2_user;
 GRANT USAGE ON SCHEMA public TO app2_user;
 GRANT CREATE ON SCHEMA public TO app2_user;
