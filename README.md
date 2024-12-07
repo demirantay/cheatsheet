@@ -22,6 +22,7 @@
 - [yaml](./devops/yaml.md)
 - [CI/CD Pipeline](./devops/ci_cd.md)
 - [Stripe - Checkout](./devops/stripe-checkout.md)
+- [posgres](./devops/posgres.md)
 
 ### Mobile
 
