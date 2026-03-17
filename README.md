@@ -36,3 +36,13 @@
 
 - [SDK](./feynman/sdk.md)
 - [CI/CD](./feynman/ci_cd.md)
+
+
+
+---
+for later on coding, I will note and categorize these later on:
+
+for three.js:
+one mental model that will unblock 90% of Three.js confusion:
+Everything is: Geometry + Material = Mesh. You add Meshes to the Scene.
+That's it. All the fancy functions are just shortcuts for making different shapes or different surface appearances. When something looks wrong, it's almost always one of those two things.
